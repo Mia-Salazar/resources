@@ -3,7 +3,7 @@ Una lists de recursos que me han resultado útiles. Están ordenadas por temáti
 
 Todos los recursos son **gratuitos**.
 
-## Accesibilidad
+### Accesibilidad
 * [Artículo][EN] [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [Artículo][EN] [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [Artículo][EN] [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
@@ -12,13 +12,13 @@ Todos los recursos son **gratuitos**.
 * [Herramienta][EN] [Paletas accesibles](https://randoma11y.com/?color=teal)
 * [Artículo][EN] []()
 
-## Angular
+### Angular
 * [Artículo][EN] [Component styles](https://angular.io/guide/component-styles)
 * [Artículo][EN] [Angular 11 Tutorial & Example — Upload Files with FormData, HttpClient, RxJS, and Material ProgressBar](https://efficientcoder.net/angular-tutorial-example-upload-files-with-formdata-httpclient-rxjs-and-material-progressbar/)
 * [Vídeo][EN] [Remove unused Angular Material CSS (2020)](https://www.youtube.com/watch?v=1rwRovyQGuo&ab_channel=DecodedFrontend)
 * [Artículo][EN] []()
 
-## CSS
+### CSS
 * [Artículo][EN] [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 * [Artículo][EN] [CSS Language Speak: Container vs Wrapper?](https://stackoverflow.com/questions/4059163/css-language-speak-container-vs-wrapper)
 * [Artículo][EN] [Ellipsis truncation and flexbox without a specific width](https://codepen.io/unthinkingly/full/XMwJLG)
@@ -31,22 +31,22 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [Herramienta][EN] [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [Artículo][EN] []()
 
-## Componentes
+### Componentes
 * [Artículo] [EN] [Margin considered harmful](https://mxstbr.com/thoughts/margin/)
 * [Artículo][EN] [Creando mejores componentes](https://octuweb.com/creando-mejores-componentes/)
 
-## Cyberseguridad
+### Cyberseguridad
 * [Artículo][EN] [SQL Injection](https://www.w3schools.com/sql/sql_injection.asphttps://www.w3schools.com/sql/sql_injection.asp)
 * [Vídeo][ES] [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
-## Git
+### Git
 * [Artículo][ES] [¿Cómo usar git cherry-pick sin morir en el intento?](https://luisburgosv.medium.com/c%C3%B3mo-usar-git-cherry-pick-sin-morir-en-el-intento-fab92ba1ee7b)
 * [Artículo][EN] [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [Artículo][ES] [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
 * [Herramienta][EN] [git-standup](https://github.com/kamranahmedse/git-standup)
 * [Libro][ES] [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
 
-## HTML
+### HTML
 * [Artículo][EN] [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [Artículo][EN] [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [Artículo][ES] [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?](https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
@@ -55,7 +55,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [Herramienta][EN] [HTML validator](https://validator.w3.org/nu/)
 * [Herramienta][EN] [Can I use (with HTML)](https://caninclude.glitch.me/)
 
-## Javascript
+### Javascript
 * [Artículo][EN] [Understanding JavaScript Prototypes](https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866)
 * [Artículo][EN] [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 * [Artículo][EN] [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
@@ -70,7 +70,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [Vídeo][ES] [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 * [Artículo][EN] []()
 
-## React
+### React
 * [Artículo][ES] [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
 * [Artículo][ES] [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [Artículo][EN] [https://developero.io/blog/react-solid-example](https://developero.io/blog/react-solid-example)
@@ -81,11 +81,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [Vídeo][ES] [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
 * [Artículo][EN] []()
 
-## Sistemas operativos
+### Sistemas operativos
 * [Artículo][EN] []()
 * [Herramienta][EN] [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 
-## Testing
+### Testing
 * [Artículo][EN] [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
 * [Artículo][EN] []()
 * [Artículo][EN] [Migrate from Jasmine to Jest and Testing Library in Angular](https://dev.to/this-is-angular/migrate-from-jasmine-to-jest-and-testing-in-angular-286i)
@@ -95,13 +95,12 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [Herramienta][EN] [Generador datos falsos](https://fakerjs.dev/)
 * [Vídeo][EN] [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
 
-## Typescript
+### Typescript
 * [Artículo][EN] [Typescript strict](https://www.typescriptlang.org/tsconfig#strict)
 * [Artículo][EN] []()
 * [Herramienta][EN] [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
 
-
-## UX/UI
+### UX/UI
 * [Artículo][EN] [10+ Resources for recreating old school & retro user interfaces today!](https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj)
 * [Libro][EN] [Design systems guide](https://thedesignsystem.guide/)
 * [Artículo][EN] [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
@@ -111,11 +110,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 # Otros
 Recursos y herramientas que no se pueden clasificar en las anteriores categorías
 
-## Herramientas
+### Herramientas
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)
 * [EN] [Convert Images to Ascii Art](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
 
-## Útil
+### Útil
 * [Artículo][ES] [Arrays de provincias en España](https://gist.github.com/amaia/9463)
 * [Artículo][EN] [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [Artículo][ES] [
@@ -124,7 +123,7 @@ Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriag
 * [Vídeo][ES] [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [Libro][EN] [Patrones](https://www.patterns.dev/)
 
-## Gente guay
+### Gente guay
 * [Ariane Jurado](https://twitter.com/Ari_Reinventada)
 * [Ariane Jurado](https://twitter.com/Ari_Reinventada)
 * [Carmen Ansio](https://twitter.com/carmenansio)

@@ -4,9 +4,10 @@ Una lists de recursos que me han resultado útiles. Están ordenadas por temáti
 Todos los recursos son **gratuitos**.
 
 ### Accesibilidad
-* [Artículo][EN] [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
+* [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [Artículo][EN] [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [Artículo][EN] [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
+* [Artículo][EN] [WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 * [Herramienta][EN] [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [Herramienta][EN] [Generador de paletas accesibles](http://colorsafe.co/)
 * [Herramienta][EN] [Paletas accesibles](https://randoma11y.com/?color=teal)
@@ -37,12 +38,14 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Cyberseguridad
 * [Artículo][EN] [SQL Injection](https://www.w3schools.com/sql/sql_injection.asphttps://www.w3schools.com/sql/sql_injection.asp)
+* [Artículo][ES] [¿Qué es un honeypot?](https://latam.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [Vídeo][ES] [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
 ### Git
 * [Artículo][ES] [¿Cómo usar git cherry-pick sin morir en el intento?](https://luisburgosv.medium.com/c%C3%B3mo-usar-git-cherry-pick-sin-morir-en-el-intento-fab92ba1ee7b)
 * [Artículo][EN] [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [Artículo][ES] [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
+* [Artículo][EN] [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [Herramienta][EN] [git-standup](https://github.com/kamranahmedse/git-standup)
 * [Libro][ES] [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
 
@@ -87,11 +90,12 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Testing
 * [Artículo][EN] [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
-* [Artículo][EN] []()
+* [Artículo][EN] [Jest / Enzyme - How to test at different viewports?](https://stackoverflow.com/questions/46221210/jest-enzyme-how-to-test-at-different-viewports)
 * [Artículo][EN] [Migrate from Jasmine to Jest and Testing Library in Angular](https://dev.to/this-is-angular/migrate-from-jasmine-to-jest-and-testing-in-angular-286i)
 * [Artículo][EN] [How to run, ignore or skip Jest tests, suites and files](https://codewithhugo.com/run-skip-single-jest-test/)
 * [Artículo][EN] [Using the debug method](https://subscription.packtpub.com/book/web-development/9781800564459/2/ch02lvl1sec14/using-the-debug-method)
 * [Artículo][EN] [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+* [Artículo][EN] []()
 * [Herramienta][EN] [Generador datos falsos](https://fakerjs.dev/)
 * [Vídeo][EN] [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
 
@@ -120,6 +124,7 @@ Recursos y herramientas que no se pueden clasificar en las anteriores categoría
 * [Artículo][ES] [
 Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriagacastro.com/copyright-copyleft-y-creative-commons-como-se-diferencian/)
 * [Artículo][EN] [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
+* [Artículo][EN] [How DNS works](https://howdns.works/ep1/)
 * [Vídeo][ES] [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [Libro][EN] [Patrones](https://www.patterns.dev/)
 

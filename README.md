@@ -133,6 +133,30 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 # Otros
 Recursos y herramientas que no se pueden clasificar en las anteriores categorías
 
+### MUJERES guays
+Mujeres que inspiran y a las que admiro
+
+* [Ariane Jurado](https://twitter.com/Ari_Reinventada)
+* [Belén](https://twitter.com/ladybenko)
+* [Carmen Ansio](https://twitter.com/carmenansio)
+* [Carolina Arjona Soler](https://twitter.com/consoleCarol)
+* [Concha Asensio](https://twitter.com/conchaasensio)
+* [Cris](https://twitter.com/_chococrispis)
+* [Cris Pampín](https://twitter.com/cristina_pampin)
+* [Diana Aceves](https://twitter.com/diana_aceves_)
+* [Desiré](https://twitter.com/helleworld_)
+* [eMe](https://twitter.com/mj_benitez)
+* [Kaky Rodríguez Petrella](https://twitter.com/KakyRP)
+* [Natalia Venditto](https://twitter.com/AnfibiaCreativa)
+* [Nerea Luis](https://twitter.com/sailormerqury)
+* [Nuria](https://twitter.com/miriamgonp)
+* [Marina Aísa](https://twitter.com/MarinaAisa)
+* [Miriam González](https://twitter.com/nuria_codes)
+* [Patty O'Callaghan](https://twitter.com/pattyneta)
+* [Soraya](https://twitter.com/SocialSoraya)
+* [Silvia](https://twitter.com/fischesil)
+* [Tasia](https://twitter.com/AnastasiaKnt)
+
 ### Cursos gratuitos
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
 * [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
@@ -168,27 +192,3 @@ Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriag
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
-
-### MUJERES guays
-Mujeres que inspiran y a las que admiro
-
-* [Ariane Jurado](https://twitter.com/Ari_Reinventada)
-* [Belén](https://twitter.com/ladybenko)
-* [Carmen Ansio](https://twitter.com/carmenansio)
-* [Carolina Arjona Soler](https://twitter.com/consoleCarol)
-* [Concha Asensio](https://twitter.com/conchaasensio)
-* [Cris](https://twitter.com/_chococrispis)
-* [Cris Pampín](https://twitter.com/cristina_pampin)
-* [Diana Aceves](https://twitter.com/diana_aceves_)
-* [Desiré](https://twitter.com/helleworld_)
-* [eMe](https://twitter.com/mj_benitez)
-* [Kaky Rodríguez Petrella](https://twitter.com/KakyRP)
-* [Natalia Venditto](https://twitter.com/AnfibiaCreativa)
-* [Nerea Luis](https://twitter.com/sailormerqury)
-* [Nuria](https://twitter.com/miriamgonp)
-* [Marina Aísa](https://twitter.com/MarinaAisa)
-* [Miriam González](https://twitter.com/nuria_codes)
-* [Patty O'Callaghan](https://twitter.com/pattyneta)
-* [Soraya](https://twitter.com/SocialSoraya)
-* [Silvia](https://twitter.com/fischesil)
-* [Tasia](https://twitter.com/AnastasiaKnt)

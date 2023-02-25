@@ -16,6 +16,7 @@ Todos los recursos son **gratuitos**.
 ### Angular
 * [EN] Artículo - [Component styles](https://angular.io/guide/component-styles)
 * [EN] Artículo - [Angular 11 Tutorial & Example — Upload Files with FormData, HttpClient, RxJS, and Material ProgressBar](https://efficientcoder.net/angular-tutorial-example-upload-files-with-formdata-httpclient-rxjs-and-material-progressbar/)
+* [EN] Artículo - [Best Practices for Angular 13](https://betterprogramming.pub/best-practices-for-angular-13-fa7fdd42ba80)
 * [EN] Vídeo - [Remove unused Angular Material CSS (2020)](https://www.youtube.com/watch?v=1rwRovyQGuo&ab_channel=DecodedFrontend)
 * [EN] Artículo - []()
 
@@ -29,6 +30,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [EN] Artículo - [Reduce Angular style size (using PurgeCSS to remove unused styles)](https://dev.to/dylanvdmerwe/reduce-angular-style-size-using-purgecss-to-remove-unused-styles-3b2k)
 * [EN] Artículo - [13 Beautiful Gradient Tools Every Web Designer Should Know](https://dev.to/madza/13-beautiful-gradient-tools-every-web-designer-should-know-4dbk)
+* [EN] Artículo - [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
+* [EN] Artículo - [CSS Unit Guide: CSS em, rem, vh, vw, and more, Explained](https://www.freecodecamp.org/news/css-unit-guide/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Artículo - []()
 
@@ -46,6 +49,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [ES] Artículo - [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
+* [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
+* [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
 * [ES] Libro - [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
 
@@ -82,6 +87,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [ES] Vídeo - [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
+* [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
 * [EN] Artículo - []()
 
 ### Sistemas operativos
@@ -102,6 +108,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### Typescript
 * [EN] Artículo - [Typescript strict](https://www.typescriptlang.org/tsconfig#strict)
 * [EN] Artículo - []()
+* [EN] Artículo - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/)
 * [EN] Herramienta - [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
 
 ### UX/UI
@@ -114,6 +121,21 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 # Otros
 Recursos y herramientas que no se pueden clasificar en las anteriores categorías
 
+### Cursos gratuitos
+* [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
+* [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* [EN] [PHP](https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/history-of-php)
+* [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
+* [EN] [Javascript ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
+* [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+* [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
+* [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
+* [EN] [HTML](https://html.com/)
+* [EN] []()
+
 ### Herramientas
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)
 * [EN] [Convert Images to Ascii Art](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
@@ -125,13 +147,17 @@ Recursos y herramientas que no se pueden clasificar en las anteriores categoría
 Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriagacastro.com/copyright-copyleft-y-creative-commons-como-se-diferencian/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
+* [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 
 ### Gente guay
 * [Ariane Jurado](https://twitter.com/Ari_Reinventada)
 * [Ariane Jurado](https://twitter.com/Ari_Reinventada)
+* [Carlos Azaustre](https://twitter.com/carlosazaustre)
 * [Carmen Ansio](https://twitter.com/carmenansio)
+* [Diana Aceves](https://twitter.com/diana_aceves_)
 * [Desiré](https://twitter.com/helleworld_)
 * [Kent C. Dodds](https://twitter.com/kentcdodds)
 * [Nuria](https://twitter.com/miriamgonp)

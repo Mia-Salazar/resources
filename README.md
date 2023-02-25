@@ -3,6 +3,30 @@ Una lists de recursos que me han resultado útiles. Están ordenadas por temáti
 
 Todos los recursos son **gratuitos**.
 
+También una lista de mujeres que inspiran y a las que admiro.
+
+### MUJERES guays
+* [Ariane Jurado](https://twitter.com/Ari_Reinventada)
+* [Belén](https://twitter.com/ladybenko)
+* [Carmen Ansio](https://twitter.com/carmenansio)
+* [Carolina Arjona Soler](https://twitter.com/consoleCarol)
+* [Concha Asensio](https://twitter.com/conchaasensio)
+* [Cris](https://twitter.com/_chococrispis)
+* [Cris Pampín](https://twitter.com/cristina_pampin)
+* [Diana Aceves](https://twitter.com/diana_aceves_)
+* [Desiré](https://twitter.com/helleworld_)
+* [eMe](https://twitter.com/mj_benitez)
+* [Kaky Rodríguez Petrella](https://twitter.com/KakyRP)
+* [Natalia Venditto](https://twitter.com/AnfibiaCreativa)
+* [Nerea Luis](https://twitter.com/sailormerqury)
+* [Nuria](https://twitter.com/miriamgonp)
+* [Marina Aísa](https://twitter.com/MarinaAisa)
+* [Miriam González](https://twitter.com/nuria_codes)
+* [Patty O'Callaghan](https://twitter.com/pattyneta)
+* [Soraya](https://twitter.com/SocialSoraya)
+* [Silvia](https://twitter.com/fischesil)
+* [Tasia](https://twitter.com/AnastasiaKnt)
+
 ### Accesibilidad
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
@@ -169,16 +193,3 @@ Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriag
 * [EN] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 
-
-### Gente guay
-* [Ariane Jurado](https://twitter.com/Ari_Reinventada)
-* [Ariane Jurado](https://twitter.com/Ari_Reinventada)
-* [Carlos Azaustre](https://twitter.com/carlosazaustre)
-* [Carmen Ansio](https://twitter.com/carmenansio)
-* [Diana Aceves](https://twitter.com/diana_aceves_)
-* [Desiré](https://twitter.com/helleworld_)
-* [Kent C. Dodds](https://twitter.com/kentcdodds)
-* [Nuria](https://twitter.com/miriamgonp)
-* [Miriam González](https://twitter.com/nuria_codes)
-* [Midudev](https://twitter.com/midudev)
-* [Tasia](https://twitter.com/AnastasiaKnt)

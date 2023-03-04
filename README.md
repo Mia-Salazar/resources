@@ -138,6 +138,7 @@ Mujeres que inspiran y a las que admiro
 
 * [Ariane Jurado](https://twitter.com/Ari_Reinventada)
 * [Belén](https://twitter.com/ladybenko)
+* [Carmel Hassan Montero](https://twitter.com/karmel)
 * [Carmen Ansio](https://twitter.com/carmenansio)
 * [Carolina Arjona Soler](https://twitter.com/consoleCarol)
 * [Concha Asensio](https://twitter.com/conchaasensio)
@@ -146,7 +147,9 @@ Mujeres que inspiran y a las que admiro
 * [Diana Aceves](https://twitter.com/diana_aceves_)
 * [Desiré](https://twitter.com/helleworld_)
 * [eMe](https://twitter.com/mj_benitez)
+* [Jimena Bermúdez](https://twitter.com/Jimena_y_yo)
 * [Kaky Rodríguez Petrella](https://twitter.com/KakyRP)
+* [María Barrios](https://twitter.com/marie_nei)
 * [Natalia Venditto](https://twitter.com/AnfibiaCreativa)
 * [Nerea Luis](https://twitter.com/sailormerqury)
 * [Nuria](https://twitter.com/miriamgonp)
@@ -156,6 +159,8 @@ Mujeres que inspiran y a las que admiro
 * [Soraya](https://twitter.com/SocialSoraya)
 * [Silvia](https://twitter.com/fischesil)
 * [Tasia](https://twitter.com/AnastasiaKnt)
+* [Valeria Castro](https://twitter.com/Noval33t)
+* [Yodra López](https://twitter.com/yodralopez)
 
 ### Cursos gratuitos
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)

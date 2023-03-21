@@ -8,10 +8,10 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [EN] Artículo - [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
 * [EN] Artículo - [WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
+* [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
-* [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
@@ -36,7 +36,9 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 * [EN] Artículo - [CSS Unit Guide: CSS em, rem, vh, vw, and more, Explained](https://www.freecodecamp.org/news/css-unit-guide/)
 * [EN] Artículo - [Styling range input with CSS and JavaScript for better UX](https://nikitahl.com/style-range-input-css)
+* [EN] Artículo - [Why you should never use px to set font-size in CSS](https://joshcollinsworth.com/blog/never-use-px-for-font-size)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
+* [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 
 ### Componentes
 * [EN] Artículo - [Margin considered harmful](https://mxstbr.com/thoughts/margin/)
@@ -84,6 +86,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Understanding JavaScript Prototypes](https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866)
 * [EN] Artículo - [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 * [EN] Artículo - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
+* [EN] Artículo - [URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
 * [EN] Artículo - [Javascript. Constantes y enumerados](https://latteandcode.medium.com/javascript-constantes-y-enumerados-dd4ce7adc695)
 * [EN] Artículo - [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
@@ -97,13 +100,15 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### React
 * [EN] Artículo - [https://developero.io/blog/react-solid-example](https://developero.io/blog/react-solid-example)
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
-* [EN] Artículo - [Aprendiendo NextJS, el framework de React con Server Side Rendering](https://www.youtube.com/watch?v=2jxc8DMzt0I&ab_channel=midudev)
+* [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
+* [ES] Vídeo - [Aprendiendo NextJS, el framework de React con Server Side Rendering](https://www.youtube.com/watch?v=2jxc8DMzt0I&ab_channel=midudev)
 * [ES] Vídeo - [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
+* [ES] Vídeo - [React Query - Estado asíncronos con superpoderes](https://www.youtube.com/watch?v=vK08KlaXYlc&ab_channel=Garajedeideas)
 
 ### Testing
 * [EN] Artículo - [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
@@ -128,9 +133,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
 * [EN] Herramienta - [Generador de logos](https://maketext.io/)
+* [EN] Herramienta - [Biblioteca de iconos Open Source](https://iconoir.com/)
 * [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
 * [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
 * [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
+* [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
 # Otros
 Recursos y herramientas que no se pueden clasificar en las anteriores categorías

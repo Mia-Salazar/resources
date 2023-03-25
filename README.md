@@ -9,6 +9,8 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
 * [EN] Artículo - [WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
+* [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
+* [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
@@ -37,6 +39,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Unit Guide: CSS em, rem, vh, vw, and more, Explained](https://www.freecodecamp.org/news/css-unit-guide/)
 * [EN] Artículo - [Styling range input with CSS and JavaScript for better UX](https://nikitahl.com/style-range-input-css)
 * [EN] Artículo - [Why you should never use px to set font-size in CSS](https://joshcollinsworth.com/blog/never-use-px-for-font-size)
+* [EN] Artículo - [How camel-cased classes are way better than kebab-cased classes](https://zellwk.com/blog/camelcss/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 
@@ -102,6 +105,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
+* [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
@@ -134,6 +138,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
 * [EN] Herramienta - [Generador de logos](https://maketext.io/)
 * [EN] Herramienta - [Biblioteca de iconos Open Source](https://iconoir.com/)
+* [EN] Herramienta - [Wireframe, Diagram & Whiteboard Online](https://app.moqups.com/)
+* [EN] Herramienta - [Analyze fonts](https://fonty.io/)
 * [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
 * [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
 * [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
@@ -191,6 +197,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
 * [EN] [HTML](https://html.com/)
+* [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
 
 ### Herramientas
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)

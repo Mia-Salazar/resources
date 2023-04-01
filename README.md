@@ -40,6 +40,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Styling range input with CSS and JavaScript for better UX](https://nikitahl.com/style-range-input-css)
 * [EN] Artículo - [Why you should never use px to set font-size in CSS](https://joshcollinsworth.com/blog/never-use-px-for-font-size)
 * [EN] Artículo - [How camel-cased classes are way better than kebab-cased classes](https://zellwk.com/blog/camelcss/)
+* [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
+* [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 
@@ -123,6 +125,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 * [EN] Artículo - []()
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
+* [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 * [EN] Vídeo - [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
 
 ### Typescript
@@ -185,6 +188,7 @@ Mujeres que inspiran y a las que admiro
 * [Yodra López](https://twitter.com/yodralopez)
 
 ### Cursos gratuitos
+* [EN] [JavaScript](https://www.java5cript.com/)
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
 * [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
@@ -198,6 +202,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
 * [EN] [HTML](https://html.com/)
 * [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
+* [EN] [Python](https://facialix.com/la-agencia-de-seguridad-nacional-de-ee-uu-ha-publicado-un-curso-gratuito-de-python-para-ciberseguridad-accede-ahora/)
 
 ### Herramientas
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)

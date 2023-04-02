@@ -14,6 +14,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
+
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
@@ -65,6 +66,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Discover how to protect your company from web exposition with Kartos](https://blog.enthec.com/discover-how-to-protect-your-company-from-web-exposition-with-kartos/)
 * [EN] Artículo - [The importance of maintaining the health of your DNS](https://blog.enthec.com/the-importance-of-maintaining-the-health-of-your-dns/)
 * [EN] Artículo - [The 9 most common types of malware and how to protect from them.](https://blog.enthec.com/the-9-most-common-types-of-malware-and-how-to-protect-from-them/)
+
 * [ES] Artículo - [¿Qué es un honeypot?](https://latam.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [ES] Vídeo - [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
@@ -74,6 +76,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
+
 * [ES] Artículo - [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
 * [ES] Artículo - [¿Cómo usar git cherry-pick sin morir en el intento?](https://luisburgosv.medium.com/c%C3%B3mo-usar-git-cherry-pick-sin-morir-en-el-intento-fab92ba1ee7b)
 * [ES] Libro - [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
@@ -85,6 +88,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
+
 * [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?](https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
 
 ### Javascript
@@ -97,6 +101,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://www.bam.tech/article/getting-better-at-regular-expressions-with-3-games)
+
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
@@ -109,6 +114,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
+
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
@@ -133,6 +139,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - []()
 * [EN] Artículo - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/)
 * [EN] Herramienta - [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
+
 * [ES] Artículo - [Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
 
 ### UX/UI
@@ -146,6 +153,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
 * [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
 * [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
+
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
 # Otros
@@ -188,21 +196,23 @@ Mujeres que inspiran y a las que admiro
 * [Yodra López](https://twitter.com/yodralopez)
 
 ### Cursos gratuitos
+* [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
+* [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
+* [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
+* [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
+* [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
+* [EN] [HTML](https://html.com/)
 * [EN] [JavaScript](https://www.java5cript.com/)
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
 * [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-* [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-* [EN] [PHP](https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/history-of-php)
-* [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
 * [EN] [Javascript ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
-* [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-* [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-* [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-* [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
-* [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
-* [EN] [HTML](https://html.com/)
-* [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
+* [EN] [PHP](https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/history-of-php)
 * [EN] [Python](https://facialix.com/la-agencia-de-seguridad-nacional-de-ee-uu-ha-publicado-un-curso-gratuito-de-python-para-ciberseguridad-accede-ahora/)
+* [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
+* [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
 ### Herramientas
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)
@@ -216,6 +226,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
+
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Artículo - [Cómo dar soporte a IE y no morir en el intento](https://marasalazar.medium.com/c%C3%B3mo-dar-soporte-a-ie-y-no-morir-en-el-intento-7049dcbbf43f)
 * [ES] Artículo - [Cómo escribir documentación ÚTIL](https://dev.to/miasalazar/como-escribir-documentacion-util-4l1i)

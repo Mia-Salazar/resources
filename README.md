@@ -4,6 +4,7 @@ Una lists de recursos que me han resultado útiles. Están ordenadas por temáti
 Todos los recursos son **gratuitos**.
 
 ### Accesibilidad
+##### Inglés
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [EN] Artículo - [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
@@ -14,12 +15,13 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
-
+##### Español
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
 
 ### Angular
+##### Inglés
 * [EN] Artículo - [Component styles](https://angular.io/guide/component-styles)
 * [EN] Artículo - [Angular 11 Tutorial & Example — Upload Files with FormData, HttpClient, RxJS, and Material ProgressBar](https://efficientcoder.net/angular-tutorial-example-upload-files-with-formdata-httpclient-rxjs-and-material-progressbar/)
 * [EN] Artículo - [Best Practices for Angular 13](https://betterprogramming.pub/best-practices-for-angular-13-fa7fdd42ba80)
@@ -27,6 +29,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [To Angular Material or not to Angular Material?](https://marasalazar.medium.com/to-angular-material-or-not-to-angular-material-940a616ac22d)
 
 ### CSS
+##### Inglés
 * [EN] Artículo - [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 * [EN] Artículo - [CSS Language Speak: Container vs Wrapper?](https://stackoverflow.com/questions/4059163/css-language-speak-container-vs-wrapper)
 * [EN] Artículo - [Ellipsis truncation and flexbox without a specific width](https://codepen.io/unthinkingly/full/XMwJLG)
@@ -47,10 +50,12 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 
 ### Componentes
+##### Inglés
 * [EN] Artículo - [Margin considered harmful](https://mxstbr.com/thoughts/margin/)
 * [EN] Artículo - [Creando mejores componentes](https://octuweb.com/creando-mejores-componentes/)
 
 ### Cyberseguridad
+##### Inglés
 * [EN] Artículo - [SQL Injection](https://www.w3schools.com/sql/sql_injection.asphttps://www.w3schools.com/sql/sql_injection.asp)
 * [EN] Artículo - [The 6 types of Hat Hackers](https://blog.enthec.com/the-6-types-of-hat-hackers/)
 * [EN] Artículo - [Cybersecurity in front-end development.](https://blog.enthec.com/cybersecurity-in-front-end-development/)
@@ -66,32 +71,35 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Discover how to protect your company from web exposition with Kartos](https://blog.enthec.com/discover-how-to-protect-your-company-from-web-exposition-with-kartos/)
 * [EN] Artículo - [The importance of maintaining the health of your DNS](https://blog.enthec.com/the-importance-of-maintaining-the-health-of-your-dns/)
 * [EN] Artículo - [The 9 most common types of malware and how to protect from them.](https://blog.enthec.com/the-9-most-common-types-of-malware-and-how-to-protect-from-them/)
-
+##### Español
 * [ES] Artículo - [¿Qué es un honeypot?](https://latam.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [ES] Vídeo - [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
 ### Git
+##### Inglés
 * [EN] Artículo - [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
-
+##### Español
 * [ES] Artículo - [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
 * [ES] Artículo - [¿Cómo usar git cherry-pick sin morir en el intento?](https://luisburgosv.medium.com/c%C3%B3mo-usar-git-cherry-pick-sin-morir-en-el-intento-fab92ba1ee7b)
 * [ES] Libro - [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
 
 ### HTML
+##### Inglés
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
-
-* [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?](https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
+##### Español
+* [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?(https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
 
 ### Javascript
+##### Inglés
 * [EN] Artículo - [Understanding JavaScript Prototypes](https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866)
 * [EN] Artículo - [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 * [EN] Artículo - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
@@ -101,20 +109,21 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://www.bam.tech/article/getting-better-at-regular-expressions-with-3-games)
-
+##### Español
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 
 ### React
+##### Inglés
 * [EN] Artículo - [https://developero.io/blog/react-solid-example](https://developero.io/blog/react-solid-example)
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
-
+##### Español
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
@@ -123,6 +132,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Vídeo - [React Query - Estado asíncronos con superpoderes](https://www.youtube.com/watch?v=vK08KlaXYlc&ab_channel=Garajedeideas)
 
 ### Testing
+##### Inglés
 * [EN] Artículo - [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
 * [EN] Artículo - [Jest / Enzyme - How to test at different viewports?](https://stackoverflow.com/questions/46221210/jest-enzyme-how-to-test-at-different-viewports)
 * [EN] Artículo - [Migrate from Jasmine to Jest and Testing Library in Angular](https://dev.to/this-is-angular/migrate-from-jasmine-to-jest-and-testing-in-angular-286i)
@@ -135,14 +145,16 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Vídeo - [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
 
 ### Typescript
+##### Inglés
 * [EN] Artículo - [Typescript strict](https://www.typescriptlang.org/tsconfig#strict)
 * [EN] Artículo - []()
 * [EN] Artículo - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/)
 * [EN] Herramienta - [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
-
+##### Español
 * [ES] Artículo - [Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
 
 ### UX/UI
+##### Inglés
 * [EN] Artículo - [10+ Resources for recreating old school & retro user interfaces today!](https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj)
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
@@ -153,7 +165,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
 * [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
 * [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
-
+##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
 # Otros
@@ -196,6 +208,7 @@ Mujeres que inspiran y a las que admiro
 * [Yodra López](https://twitter.com/yodralopez)
 
 ### Cursos gratuitos
+##### Inglés
 * [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
 * [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
@@ -215,10 +228,12 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
 ### Herramientas
+##### Inglés
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)
 * [EN] [Convert Images to Ascii Art](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
 
 ### Útil
+##### Inglés
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
@@ -226,7 +241,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
-
+##### Español
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Artículo - [Cómo dar soporte a IE y no morir en el intento](https://marasalazar.medium.com/c%C3%B3mo-dar-soporte-a-ie-y-no-morir-en-el-intento-7049dcbbf43f)
 * [ES] Artículo - [Cómo escribir documentación ÚTIL](https://dev.to/miasalazar/como-escribir-documentacion-util-4l1i)

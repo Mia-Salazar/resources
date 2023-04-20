@@ -12,6 +12,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
 * [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
+* [EN] Artículo - [Accessible Loading Indicators—with No Extra Elements!](https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
@@ -19,6 +20,10 @@ Todos los recursos son **gratuitos**.
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
+
+### Arquitectura
+##### Español
+* [EN] Vídeo - [Clean Architecture: Los peligros del módulo Shared](https://www.youtube.com/watch?v=AR-Ik7jnBSk&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 
 ### Angular
 ##### Inglés
@@ -48,6 +53,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
+* [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
 
 ### Componentes
 ##### Inglés
@@ -92,6 +98,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
+* [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
@@ -115,11 +122,16 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 
+### PHP
+##### Español
+* [ES] Artículo - [Cabeceras HTTP en PHP para permitir el acceso CORS](https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/)
+
 ### React
 ##### Inglés
-* [EN] Artículo - [https://developero.io/blog/react-solid-example](https://developero.io/blog/react-solid-example)
+* [EN] Artículo - [Aprende Cómo Aplicar los Principios SOLID en React JS](https://developero.io/blog/react-solid-example)
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
+* [EN] Artículo - [The Most Powerful React JS Cheat Sheet](https://dev.to/bricourse/the-most-powerful-react-js-cheat-sheet-4ipd/)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
@@ -139,10 +151,15 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to run, ignore or skip Jest tests, suites and files](https://codewithhugo.com/run-skip-single-jest-test/)
 * [EN] Artículo - [Using the debug method](https://subscription.packtpub.com/book/web-development/9781800564459/2/ch02lvl1sec14/using-the-debug-method)
 * [EN] Artículo - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
-* [EN] Artículo - []()
+* [EN] Artículo - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
+* [EN] Artículo - [Fast and easy authentication with Playwright](https://timdeschryver.dev/blog/fast-and-easy-authentication-with-playwrights)
+* [EN] Artículo - [Cypress vs Playwright: Which is best for E2E testing?](https://cathalmacdonnacha.com/cypress-vs-playwright-which-is-best-for-e2e-testing)
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
-* [EN] Vídeo - [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
+
+####Español
+* [ES] Vídeo - [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
+* [ES] Vídeo - [Aprende Tests End to End con Playwright y Debbie O'Brien [miduConf]](https://www.youtube.com/watch?v=WlDkXteR8io&ab_channel=midulive)
 
 ### Typescript
 ##### Inglés
@@ -156,6 +173,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### UX/UI
 ##### Inglés
 * [EN] Artículo - [10+ Resources for recreating old school & retro user interfaces today!](https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj)
+* [EN] Artículo - [Responsive Grid Design: Ultimate Guide]https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892)
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
 * [EN] Herramienta - [Generador de logos](https://maketext.io/)

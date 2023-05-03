@@ -51,9 +51,14 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How camel-cased classes are way better than kebab-cased classes](https://zellwk.com/blog/camelcss/)
 * [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
+* [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
+* [EN] Herramienta - [Evitar cambio de classnames](https://github.com/styled-components/jest-styled-components)
+
+#### Español
+* [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
 ### Componentes
 ##### Inglés
@@ -115,6 +120,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
+* [EN] Artículo - [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://www.bam.tech/article/getting-better-at-regular-expressions-with-3-games)
 ##### Español
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
@@ -158,6 +164,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 
 ####Español
+* [ES] Artículo - [Playwright: Primeros pasos y ejemplos de uso](https://www.sngular.com/es/playwright-primeros-pasos-y-ejemplos-de-uso/)
 * [ES] Vídeo - [Guía Definitiva: Aprende Cómo Crear Jest Mock Tutorial Fácil y Sin dolor [Functions, Methods, etc]](https://www.youtube.com/watch?v=giywdKF4SXY&ab_channel=Developero)
 * [ES] Vídeo - [Aprende Tests End to End con Playwright y Debbie O'Brien [miduConf]](https://www.youtube.com/watch?v=WlDkXteR8io&ab_channel=midulive)
 

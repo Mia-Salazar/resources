@@ -138,6 +138,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Vídeo - [JSDayES 2018 - Pablo Magaz - "Escribiendo Service Workers con Workbox"](https://www.youtube.com/watch?v=GjXwJdYa3J4&ab_channel=JSDayES)
 
 ### PHP
+##### Inglés
+* [EN] Artículo - [PHP y la función header(location: )](https://es.stackoverflow.com/questions/19791/php-y-la-funci%C3%B3n-headerlocation)
 ##### Español
 * [ES] Artículo - [Cabeceras HTTP en PHP para permitir el acceso CORS](https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/)
 

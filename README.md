@@ -15,6 +15,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [Accessible Loading Indicators—with No Extra Elements!](https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
+* [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
 ##### Español
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
@@ -22,6 +23,8 @@ Todos los recursos son **gratuitos**.
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
 
 ### Arquitectura
+##### Inglés
+* [EN] Artículo - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 ##### Español
 * [EN] Vídeo - [Clean Architecture: Los peligros del módulo Shared](https://www.youtube.com/watch?v=AR-Ik7jnBSk&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 
@@ -52,10 +55,13 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
+* [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
 * [EN] Herramienta - [Evitar cambio de classnames](https://github.com/styled-components/jest-styled-components)
+* [EN] Herramienta - [Generador de grandient text](https://www.cssgradienttext.com/)
+* [EN] Herramienta - [Generador de degradados con Tailwind](https://hypercolor.dev/#gradients)
 
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
@@ -119,14 +125,17 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Javascript. Constantes y enumerados](https://latteandcode.medium.com/javascript-constantes-y-enumerados-dd4ce7adc695)
 * [EN] Artículo - [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+* [EN] Artículo - [What reason is there to use null instead of undefined in JavaScript?](https://stackoverflow.com/questions/6604749/what-reason-is-there-to-use-null-instead-of-undefined-in-javascript#:~:text=TLDR%3B%20Don't%20use%20the,which%20there%20is%20no%20reference)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
 * [EN] Artículo - [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
-* [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://www.bam.tech/article/getting-better-at-regular-expressions-with-3-games)
+* [EN] Artículo - [How to use the Dev.to API in 2022](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
+* [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
 ##### Español
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
+* [ES] Vídeo - [JSDayES 2018 - Pablo Magaz - "Escribiendo Service Workers con Workbox"](https://www.youtube.com/watch?v=GjXwJdYa3J4&ab_channel=JSDayES)
 
 ### PHP
 ##### Español
@@ -181,15 +190,17 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Inglés
 * [EN] Artículo - [10+ Resources for recreating old school & retro user interfaces today!](https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj)
 * [EN] Artículo - [Responsive Grid Design: Ultimate Guide]https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892)
+* [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
+* [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
+* [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
 * [EN] Herramienta - [Generador de logos](https://maketext.io/)
 * [EN] Herramienta - [Biblioteca de iconos Open Source](https://iconoir.com/)
 * [EN] Herramienta - [Wireframe, Diagram & Whiteboard Online](https://app.moqups.com/)
 * [EN] Herramienta - [Analyze fonts](https://fonty.io/)
-* [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
-* [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
-* [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
+* [EN] Herramienta - [Inspiración](https://collectui.com/)
+* [EN] Herramienta - [Saber más de una tipografía](https://fonty.io/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -234,6 +245,7 @@ Mujeres que inspiran y a las que admiro
 
 ### Cursos gratuitos
 ##### Inglés
+* [EN] [Diferentes lenguages](https://exercism.org/)
 * [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
 * [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)

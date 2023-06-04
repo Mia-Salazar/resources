@@ -12,6 +12,8 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
 * [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
+* [EN] Artículo - [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
+* [EN] Artículo - [How to build accessible main navigation?](https://techhub.iodigital.com/articles/how-to-build-accessible-main-navigation)
 * [EN] Artículo - [Accessible Loading Indicators—with No Extra Elements!](https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
@@ -56,12 +58,14 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
+* [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
 * [EN] Herramienta - [Evitar cambio de classnames](https://github.com/styled-components/jest-styled-components)
 * [EN] Herramienta - [Generador de grandient text](https://www.cssgradienttext.com/)
 * [EN] Herramienta - [Generador de degradados con Tailwind](https://hypercolor.dev/#gradients)
+* [EN] Herramienta - [Patrones para fondos](https://bansal.io/pattern-css#introduction)
 
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
@@ -149,6 +153,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
 * [EN] Artículo - [The Most Powerful React JS Cheat Sheet](https://dev.to/bricourse/the-most-powerful-react-js-cheat-sheet-4ipd/)
+* [EN] Artículo - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
@@ -252,6 +257,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
 * [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
+* [EN] [Gut](https://learngitbranching.js.org/?locale=es_ES)
 * [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
 * [EN] [HTML](https://html.com/)
 * [EN] [JavaScript](https://www.java5cript.com/)
@@ -263,6 +269,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
+* [EN] [Tailwind](https://www.geeksforgeeks.org/tailwind-css/)
 * [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
@@ -280,6 +287,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
+* [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Artículo - [Cómo dar soporte a IE y no morir en el intento](https://marasalazar.medium.com/c%C3%B3mo-dar-soporte-a-ie-y-no-morir-en-el-intento-7049dcbbf43f)
@@ -290,3 +298,5 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Arrays de provincias en España](https://gist.github.com/amaia/9463)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
+
+190 - Actualización 04/06/2023

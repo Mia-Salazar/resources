@@ -120,6 +120,15 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Español
 * [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?(https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
 
+### IA
+##### Inglés
+* [EN] Herramienta - [AI Voice Generator and Text to Speech](https://lovo.ai/)
+* [EN] Herramienta - [Talk with internet](https://andisearch.com/)
+* [EN] Herramienta - [Free AI photos. Realistic human models. Your own products.](https://www.caspa.ai/)
+* [EN] Herramienta - [Text in. Audio out](https://www.audyo.ai/)
+* [EN] Herramienta - [Generate images](https://magicstudio.com/)
+
+
 ### Javascript
 ##### Inglés
 * [EN] Artículo - [Understanding JavaScript Prototypes](https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866)
@@ -154,6 +163,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
 * [EN] Artículo - [The Most Powerful React JS Cheat Sheet](https://dev.to/bricourse/the-most-powerful-react-js-cheat-sheet-4ipd/)
 * [EN] Artículo - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
+* [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
+* [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
@@ -176,6 +187,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 * [EN] Artículo - [Fast and easy authentication with Playwright](https://timdeschryver.dev/blog/fast-and-easy-authentication-with-playwrights)
 * [EN] Artículo - [Cypress vs Playwright: Which is best for E2E testing?](https://cathalmacdonnacha.com/cypress-vs-playwright-which-is-best-for-e2e-testing)
+* [EN] Artículo - [Migrating from Cypress to Playwright](https://medium.com/@lucgagan/migrating-from-cypress-to-playwright-a7add04b02b3)
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 
@@ -208,6 +220,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Analyze fonts](https://fonty.io/)
 * [EN] Herramienta - [Inspiración](https://collectui.com/)
 * [EN] Herramienta - [Saber más de una tipografía](https://fonty.io/)
+* [EN] Herramienta - [CSS Patterns](https://css-pattern.com/)
+* [EN] Herramienta - [Theme toggles](https://toggles.dev/)
+* [EN] Herramienta - [CSS Gradient Genrator](https://democoding.in/css-gradient-generator)
+* [EN] Herramienta - [Animations](https://all-animation.github.io/)
+* [EN] Herramienta - [Spinners](https://cssloaders.github.io/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -255,24 +272,29 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Diferentes lenguages](https://exercism.org/)
 * [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
-* [EN] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
-* [EN] [Gut](https://learngitbranching.js.org/?locale=es_ES)
-* [EN] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
 * [EN] [HTML](https://html.com/)
 * [EN] [JavaScript](https://www.java5cript.com/)
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
 * [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [EN] [Javascript ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
 * [EN] [PHP](https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/history-of-php)
-* [EN] [Python](https://facialix.com/la-agencia-de-seguridad-nacional-de-ee-uu-ha-publicado-un-curso-gratuito-de-python-para-ciberseguridad-accede-ahora/)
 * [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
 * [EN] [Tailwind](https://www.geeksforgeeks.org/tailwind-css/)
 * [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-
+* [EN] [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+* [EN] [Python Game](https://www.codedex.io/)
+* [EN] [Accesibility](https://www.w3.org/WAI/courses/list/)
+##### Español
+* [ES] [React Query](https://cursos.devtalles.com/courses/react-query)
+* [ES] [Python](https://facialix.com/la-agencia-de-seguridad-nacional-de-ee-uu-ha-publicado-un-curso-gratuito-de-python-para-ciberseguridad-accede-ahora/)
+* [ES] [Gut](https://learngitbranching.js.org/?locale=es_ES)
+* [ES] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
+* [ES] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
+  
 ### Herramientas
 ##### Inglés
 * [EN] [Convertir texto en caligrafía](https://www.calligrapher.ai/)
@@ -287,6 +309,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
+* [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
@@ -298,5 +321,6 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Arrays de provincias en España](https://gist.github.com/amaia/9463)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
+* [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-190 - Actualización 04/06/2023
+208 - Actualización 20/06/2023

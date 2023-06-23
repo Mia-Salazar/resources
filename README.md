@@ -20,6 +20,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
 ##### Español
+* [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
@@ -153,6 +154,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### PHP
 ##### Inglés
 * [EN] Artículo - [PHP y la función header(location: )](https://es.stackoverflow.com/questions/19791/php-y-la-funci%C3%B3n-headerlocation)
+* [EN] Artículo - [Login with Google using JavaScript and PHP](https://artisansweb.net/login-with-google-using-javascript-php/)
 ##### Español
 * [ES] Artículo - [Cabeceras HTTP en PHP para permitir el acceso CORS](https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/)
 
@@ -323,4 +325,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-208 - Actualización 20/06/2023
+210 - Actualización 23/06/2023

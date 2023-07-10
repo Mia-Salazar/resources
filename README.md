@@ -19,6 +19,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
+* [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
 ##### Español
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
@@ -102,6 +103,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
+* [EN] Artículo - [Git - How to fix a bad commit](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
 ##### Español
@@ -166,6 +168,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [The Most Powerful React JS Cheat Sheet](https://dev.to/bricourse/the-most-powerful-react-js-cheat-sheet-4ipd/)
 * [EN] Artículo - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
+* [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
 * [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
@@ -227,6 +230,9 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [CSS Gradient Genrator](https://democoding.in/css-gradient-generator)
 * [EN] Herramienta - [Animations](https://all-animation.github.io/)
 * [EN] Herramienta - [Spinners](https://cssloaders.github.io/)
+* [EN] Herramienta - [Font pairing made simple](https://fontjoy.com/)
+* [EN] Herramienta - [Super duper SVG Doodles](https://svgdoodles.com/)
+* [EN] Herramienta - [The good line-height](https://www.thegoodlineheight.com/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -325,4 +331,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-210 - Actualización 23/06/2023
+216 - Actualización 10/07/2023

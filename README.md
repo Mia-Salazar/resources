@@ -12,7 +12,9 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
 * [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
+* [EN] Artículo - [A 10-step approach to inclusive branding, using the BBC as an example](https://uxdesign.cc/a-10-step-approach-to-inclusive-branding-using-the-bbc-as-an-example-a05835b7a73)
 * [EN] Artículo - [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
+* [EN] Artículo - [The problem with auto-generated alternative texts for images](https://dnikub.dev/blog/2023/the-problem-with-auto-generated-alternative-texts-for-images/)
 * [EN] Artículo - [How to build accessible main navigation?](https://techhub.iodigital.com/articles/how-to-build-accessible-main-navigation)
 * [EN] Artículo - [Accessible Loading Indicators—with No Extra Elements!](https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements)
 * [EN] Herramienta - [Generador de paletas accesibles](https://venngage.com/tools/accessible-color-palette-generator)
@@ -20,6 +22,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
 * [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
+* [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
 ##### Español
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
@@ -68,7 +71,9 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Generador de grandient text](https://www.cssgradienttext.com/)
 * [EN] Herramienta - [Generador de degradados con Tailwind](https://hypercolor.dev/#gradients)
 * [EN] Herramienta - [Patrones para fondos](https://bansal.io/pattern-css#introduction)
-
+* [EN] Herramienta - [A free visual guide to CSS](https://cssreference.io/)
+* [EN] Herramienta - [Unique gradients](https://meshgradient.com/)
+* [EN] Herramienta - [10 Modern CSS layout ](https://1linelayouts.glitch.me/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
@@ -106,6 +111,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Git - How to fix a bad commit](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
+* [EN] Herramienta - [Juego para aprender Git](https://ohmygit.org/)
 ##### Español
 * [ES] Artículo - [Crear alias de comandos con git](https://styde.net/crear-alias-de-comandos-con-git/)
 * [ES] Artículo - [¿Cómo usar git cherry-pick sin morir en el intento?](https://luisburgosv.medium.com/c%C3%B3mo-usar-git-cherry-pick-sin-morir-en-el-intento-fab92ba1ee7b)
@@ -169,6 +175,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
+* [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
+* [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
 * [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
@@ -190,6 +198,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Using the debug method](https://subscription.packtpub.com/book/web-development/9781800564459/2/ch02lvl1sec14/using-the-debug-method)
 * [EN] Artículo - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 * [EN] Artículo - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
+* [EN] Artículo - [How to change default language Chromium/Firefox using Playwright?](https://stackoverflow.com/questions/67238821/how-to-change-default-language-chromium-firefox-using-playwright)
 * [EN] Artículo - [Fast and easy authentication with Playwright](https://timdeschryver.dev/blog/fast-and-easy-authentication-with-playwrights)
 * [EN] Artículo - [Cypress vs Playwright: Which is best for E2E testing?](https://cathalmacdonnacha.com/cypress-vs-playwright-which-is-best-for-e2e-testing)
 * [EN] Artículo - [Migrating from Cypress to Playwright](https://medium.com/@lucgagan/migrating-from-cypress-to-playwright-a7add04b02b3)
@@ -233,6 +242,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Font pairing made simple](https://fontjoy.com/)
 * [EN] Herramienta - [Super duper SVG Doodles](https://svgdoodles.com/)
 * [EN] Herramienta - [The good line-height](https://www.thegoodlineheight.com/)
+* [EN] Herramienta - [Font playground](https://play.typedetail.com/)
+* [EN] Herramienta - [Generador de tonos y matices](https://noeldelgado.github.io/shadowlord/#dc1818)
+* [EN] Herramienta - [Probar matices de color en una interfaz](https://tintmint.net/)
+* [EN] Herramienta - [Escalas proporcionales de tipografía](https://proportio.app/)
+* [EN] Herramienta - [SVG a personalizar](https://svghub.vercel.app/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -278,11 +292,14 @@ Mujeres que inspiran y a las que admiro
 ### Cursos gratuitos
 ##### Inglés
 * [EN] [Diferentes lenguages](https://exercism.org/)
+* [EN] [Accesibility](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
+* [EN] [CSS](https://flukeout.github.io/)
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
 * [EN] [HTML](https://html.com/)
 * [EN] [JavaScript](https://www.java5cript.com/)
+* [EN] [JavaScript](https://warriorjs.com/)
 * [EN] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?irclickid=zprUnaykcxyOU-)
 * [EN] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [EN] [Javascript ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
@@ -290,12 +307,15 @@ Mujeres que inspiran y a las que admiro
 * [EN] [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [EN] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
+* [EN] [SQL](https://www.mystery.knightlab․com)
+* [EN] [SVG](https://www.nan.fyi/svg-paths)
 * [EN] [Tailwind](https://www.geeksforgeeks.org/tailwind-css/)
+* [EN] [Typescript](https://www.codingame.com/start/)
 * [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * [EN] [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 * [EN] [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 * [EN] [Python Game](https://www.codedex.io/)
-* [EN] [Accesibility](https://www.w3.org/WAI/courses/list/)
+
 ##### Español
 * [ES] [React Query](https://cursos.devtalles.com/courses/react-query)
 * [ES] [Python](https://facialix.com/la-agencia-de-seguridad-nacional-de-ee-uu-ha-publicado-un-curso-gratuito-de-python-para-ciberseguridad-accede-ahora/)
@@ -313,10 +333,12 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
+* [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
+* [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
@@ -331,4 +353,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-216 - Actualización 10/07/2023
+234 - Actualización 04/08/2023

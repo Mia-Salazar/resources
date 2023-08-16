@@ -62,6 +62,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
+* [EN] Artículo - [Use border-radius and outline simultaneously on Safari](https://medium.com/@jeandesravines/use-border-radius-and-outline-simultaneously-on-safari-14ce92889e1f)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
 * [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
@@ -123,6 +124,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
+* [EN] Artículo - [A free guide to HTML](https://htmlreference.io/)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
@@ -177,6 +179,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
 * [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 * [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
+* [EN] Artículo - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/#conclusion/)
 * [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
@@ -247,6 +250,9 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Probar matices de color en una interfaz](https://tintmint.net/)
 * [EN] Herramienta - [Escalas proporcionales de tipografía](https://proportio.app/)
 * [EN] Herramienta - [SVG a personalizar](https://svghub.vercel.app/)
+* [EN] Herramienta - [Explorar colores](https://pigment.shapefactory.co/)
+* [EN] Herramienta - [CSS Gradient Generator](https://www.css-gradient.com/)
+* [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -334,11 +340,16 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
 * [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
+* [EN] Artículo - [Learn about CPU](https://cpu.land/)
+* [EN] Artículo - [Geolocation getCurrentPosition() Method](https://www.w3schools.com/jsref/met_geo_getcurrentposition.asp)
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
 * [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
+* [EN] Herramienta - [Coste añadir paquete npm](https://bundlephobia.com/)
+* [EN] Herramienta - [Type JSON](https://app.quicktype.io/)
+* [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
@@ -353,4 +364,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-234 - Actualización 04/08/2023
+243 - Actualización 16/08/2023

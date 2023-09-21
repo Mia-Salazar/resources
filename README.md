@@ -23,11 +23,16 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
 * [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
 * [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
+* [EN] Herramienta - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
+* [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
 ##### Español
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
+* [ES] Artículo - [¿Sabes escribir un buen Alt-Text?](https://www.hiexperience.es/blog/escribir-un-buen-alt-text)
+* [ES] Artículo - [Declaración de accesibilidad](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/implantacion-rd-1112-2018/declaracion_accesibilidad.html)
+* [ES] Vídeo - [¿Cómo testear la accesibilidad web en tu proyecto?](https://www.youtube.com/watch?v=f6ctGw-hRD0&ab_channel=ParadigmaDigital)
 
 ### Arquitectura
 ##### Inglés
@@ -62,6 +67,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
+* [EN] Artículo - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 * [EN] Artículo - [Use border-radius and outline simultaneously on Safari](https://medium.com/@jeandesravines/use-border-radius-and-outline-simultaneously-on-safari-14ce92889e1f)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
 * [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
@@ -75,6 +81,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [A free visual guide to CSS](https://cssreference.io/)
 * [EN] Herramienta - [Unique gradients](https://meshgradient.com/)
 * [EN] Herramienta - [10 Modern CSS layout ](https://1linelayouts.glitch.me/)
+* [EN] Herramienta - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
@@ -104,12 +111,21 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Qué es un honeypot?](https://latam.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [ES] Vídeo - [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
+### Fron-end
+##### Inglés
+* [EN] Herramienta - [Improve your HTML and CSS skills by practicing on real design templates](https://www.codewell.cc/)
+* [EN] Herramienta - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
+* [EN] Herramienta - [Frontend practice](https://www.frontendpractice.com/)
+##### Español
+* [EN] Herramienta - [Pruebas técnicas de Programación](https://pruebastecnicas.com/)
+
 ### Git
 ##### Inglés
 * [EN] Artículo - [git blame](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-blame)
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * [EN] Artículo - [Git - How to fix a bad commit](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
+* [EN] Artículo - [How do you stash an untracked file?](https://stackoverflow.com/questions/835501/how-do-you-stash-an-untracked-file)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
 * [EN] Herramienta - [Juego para aprender Git](https://ohmygit.org/)
@@ -125,6 +141,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
 * [EN] Artículo - [A free guide to HTML](https://htmlreference.io/)
+* [EN] Artículo - [HTML5: ¿Cuál es la forma correcta de poner negritas? ¿strong, b o "font-weight"?](https://www.campusmvp.es/recursos/post/html5-cual-es-la-forma-correcta-de-poner-negritas-strong-b-o-font-weight.aspx)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
@@ -149,10 +166,12 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Javascript. Constantes y enumerados](https://latteandcode.medium.com/javascript-constantes-y-enumerados-dd4ce7adc695)
 * [EN] Artículo - [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+* [EN] Artículo - [Return Early Pattern](https://medium.com/swlh/return-early-pattern-3d18a41bba8)
 * [EN] Artículo - [What reason is there to use null instead of undefined in JavaScript?](https://stackoverflow.com/questions/6604749/what-reason-is-there-to-use-null-instead-of-undefined-in-javascript#:~:text=TLDR%3B%20Don't%20use%20the,which%20there%20is%20no%20reference)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
 * [EN] Artículo - [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * [EN] Artículo - [How to use the Dev.to API in 2022](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
+* [EN] Artículo - [Everything You Need to Know About Cookies for Web Development](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
 ##### Español
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
@@ -183,6 +202,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
 * [EN] Herramienta - [Create React Content Loader](https://skeletonreact.com/)
+* [EN] Herramienta - [Story Explorer Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=joshbolduc.story-explorer)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
 ##### Español
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
@@ -219,6 +239,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - []()
 * [EN] Artículo - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/)
 * [EN] Herramienta - [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
+* [EN] Herramienta - [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 ##### Español
 * [ES] Artículo - [Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
 
@@ -349,6 +370,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
 * [EN] Herramienta - [Coste añadir paquete npm](https://bundlephobia.com/)
 * [EN] Herramienta - [Type JSON](https://app.quicktype.io/)
+* [EN] Herramienta - [DevChallenges](https://devchallenges.io/)
 * [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
@@ -361,7 +383,8 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriagacastro.com/copyright-copyleft-y-creative-commons-como-se-diferencian/)
 * [ES] Artículo - [Arrays de provincias en España](https://gist.github.com/amaia/9463)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
+* [ES] Herramienta - [Step4ward mentoras](https://step4ward.notion.site/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-243 - Actualización 16/08/2023
+262 - Actualización 16/08/2023

@@ -14,6 +14,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
 * [EN] Artículo - [A 10-step approach to inclusive branding, using the BBC as an example](https://uxdesign.cc/a-10-step-approach-to-inclusive-branding-using-the-bbc-as-an-example-a05835b7a73)
 * [EN] Artículo - [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
+* [EN] Artículo - [Accessibility Beyond Compliance: What Baking Teaches Us](https://meryl.net/accessibility-beyond-compliance/)
 * [EN] Artículo - [The problem with auto-generated alternative texts for images](https://dnikub.dev/blog/2023/the-problem-with-auto-generated-alternative-texts-for-images/)
 * [EN] Artículo - [How to build accessible main navigation?](https://techhub.iodigital.com/articles/how-to-build-accessible-main-navigation)
 * [EN] Artículo - [Accessible Loading Indicators—with No Extra Elements!](https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements)
@@ -189,6 +190,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### React
 ##### Inglés
+* [EN] Artículo - [Handling `undefined` in React Query and Typescript](https://www.neldeles.com/blog/posts/handling-undefined-in-react-query)
 * [EN] Artículo - [Aprende Cómo Aplicar los Principios SOLID en React JS](https://developero.io/blog/react-solid-example)
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 * [EN] Artículo - [What is prop drilling and how to avoid it ?](https://www.geeksforgeeks.org/what-is-prop-drilling-and-how-to-avoid-it/)
@@ -211,6 +213,10 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Vídeo - [Aprendiendo NextJS, el framework de React con Server Side Rendering](https://www.youtube.com/watch?v=2jxc8DMzt0I&ab_channel=midudev)
 * [ES] Vídeo - [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
 * [ES] Vídeo - [React Query - Estado asíncronos con superpoderes](https://www.youtube.com/watch?v=vK08KlaXYlc&ab_channel=Garajedeideas)
+
+### SQL
+##### Inglés
+* [EN] Artículo - [How to select first 10 elements from database using SQL?](https://stackoverflow.com/questions/1693754/how-to-select-first-10-elements-from-database-using-sql)
 
 ### Testing
 ##### Inglés
@@ -387,4 +393,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-262 - Actualización 16/08/2023
+265 - Actualización 29/09/2023

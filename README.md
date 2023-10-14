@@ -83,6 +83,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Unique gradients](https://meshgradient.com/)
 * [EN] Herramienta - [10 Modern CSS layout ](https://1linelayouts.glitch.me/)
 * [EN] Herramienta - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors/)
+* [EN] Herramienta - [Mastering CSS Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
@@ -198,6 +199,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
+* [EN] Artículo - [Conditional hooks?](https://dev.to/lexlohr/conditional-hooks-1fpj)
 * [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 * [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
 * [EN] Artículo - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/#conclusion/)
@@ -279,6 +281,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [SVG a personalizar](https://svghub.vercel.app/)
 * [EN] Herramienta - [Explorar colores](https://pigment.shapefactory.co/)
 * [EN] Herramienta - [CSS Gradient Generator](https://www.css-gradient.com/)
+* [EN] Herramienta - [Fluid Type Scale Calculator](https://www.fluid-type-scale.com/)
 * [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
@@ -371,6 +374,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [Geolocation getCurrentPosition() Method](https://www.w3schools.com/jsref/met_geo_getcurrentposition.asp)
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
+* [EN] Artículo - [Manage global state with Recoil.js](https://dev.to/eduardo_alvarez_946ae8b20/manage-global-state-with-recoi-js-4a2)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
 * [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
@@ -393,4 +397,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 
-265 - Actualización 29/09/2023
+269 - Actualización 14/10/2023

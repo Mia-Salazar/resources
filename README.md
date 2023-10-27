@@ -84,6 +84,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [10 Modern CSS layout ](https://1linelayouts.glitch.me/)
 * [EN] Herramienta - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors/)
 * [EN] Herramienta - [Mastering CSS Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
+* [EN] Herramienta - [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
@@ -143,6 +144,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
 * [EN] Artículo - [A free guide to HTML](https://htmlreference.io/)
+* [EN] Artículo - [Is there any way to prevent input type="number" getting negative values?](https://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values)
 * [EN] Artículo - [HTML5: ¿Cuál es la forma correcta de poner negritas? ¿strong, b o "font-weight"?](https://www.campusmvp.es/recursos/post/html5-cual-es-la-forma-correcta-de-poner-negritas-strong-b-o-font-weight.aspx)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
@@ -168,6 +170,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Javascript. Constantes y enumerados](https://latteandcode.medium.com/javascript-constantes-y-enumerados-dd4ce7adc695)
 * [EN] Artículo - [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 * [EN] Artículo - [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+* [EN] Artículo - [Buscar: getElement*, querySelector*](https://es.javascript.info/searching-elements-dom)
 * [EN] Artículo - [Return Early Pattern](https://medium.com/swlh/return-early-pattern-3d18a41bba8)
 * [EN] Artículo - [What reason is there to use null instead of undefined in JavaScript?](https://stackoverflow.com/questions/6604749/what-reason-is-there-to-use-null-instead-of-undefined-in-javascript#:~:text=TLDR%3B%20Don't%20use%20the,which%20there%20is%20no%20reference)
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
@@ -200,6 +203,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
 * [EN] Artículo - [Conditional hooks?](https://dev.to/lexlohr/conditional-hooks-1fpj)
+* [EN] Artículo - [Avoiding flash of unwanted animation on first render in React](https://dev.to/thomasledoux1/avoiding-flash-of-unwanted-animation-on-first-render-in-react-1o0c)
 * [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 * [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
 * [EN] Artículo - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/#conclusion/)
@@ -233,6 +237,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Fast and easy authentication with Playwright](https://timdeschryver.dev/blog/fast-and-easy-authentication-with-playwrights)
 * [EN] Artículo - [Cypress vs Playwright: Which is best for E2E testing?](https://cathalmacdonnacha.com/cypress-vs-playwright-which-is-best-for-e2e-testing)
 * [EN] Artículo - [Migrating from Cypress to Playwright](https://medium.com/@lucgagan/migrating-from-cypress-to-playwright-a7add04b02b3)
+* [EN] Artículo - [Playwright Select First or Last Element](https://www.programsbuzz.com/article/playwright-select-first-or-last-element)
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 
@@ -345,6 +350,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [SQL](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql)
 * [EN] [SQL](https://www.mystery.knightlab․com)
 * [EN] [SVG](https://www.nan.fyi/svg-paths)
+* [EN] [SVG](https://github.com/mouredev/hello-sql)
 * [EN] [Tailwind](https://www.geeksforgeeks.org/tailwind-css/)
 * [EN] [Typescript](https://www.codingame.com/start/)
 * [EN] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -392,9 +398,11 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Derecho laboral para dummies](https://dev.to/miasalazar/derecho-laboral-para-dummies-4ce2)
 * [ES] Artículo - [Copyright, Copyleft y Creative Commons ¿Cómo se diferencian?](https://luzuriagacastro.com/copyright-copyleft-y-creative-commons-como-se-diferencian/)
 * [ES] Artículo - [Arrays de provincias en España](https://gist.github.com/amaia/9463)
+* [ES] Artículo - [Crear métricas en Google Analytics 4](https://dev.to/miasalazar/crear-metricas-en-google-analytics-4-5938)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Herramienta - [Step4ward mentoras](https://step4ward.notion.site/)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
+* [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
 
-269 - Actualización 14/10/2023
+277 - Actualización 27/10/2023

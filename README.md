@@ -26,6 +26,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
 * [EN] Herramienta - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 * [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
+* [EN] Libro - [Libro "Accesibilidad web. WCAG 2.1 de forma sencilla". Descarga gratuita.](https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html)
 ##### Español
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
@@ -34,6 +35,8 @@ Todos los recursos son **gratuitos**.
 * [ES] Artículo - [¿Sabes escribir un buen Alt-Text?](https://www.hiexperience.es/blog/escribir-un-buen-alt-text)
 * [ES] Artículo - [Declaración de accesibilidad](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/implantacion-rd-1112-2018/declaracion_accesibilidad.html)
 * [ES] Vídeo - [¿Cómo testear la accesibilidad web en tu proyecto?](https://www.youtube.com/watch?v=f6ctGw-hRD0&ab_channel=ParadigmaDigital)
+* [ES] Vídeo - [EXPRESIONES REGULARES Desde Cero](https://www.youtube.com/watch?v=MRKpVxn5fqI)
+* [ES] Vídeo - [Por qué no puede haber SOLID sin Eventos de Dominio](https://www.youtube.com/watch?v=159SstwQWE4)
 
 ### Arquitectura
 ##### Inglés
@@ -147,6 +150,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Is there any way to prevent input type="number" getting negative values?](https://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values)
 * [EN] Artículo - [HTML5: ¿Cuál es la forma correcta de poner negritas? ¿strong, b o "font-weight"?](https://www.campusmvp.es/recursos/post/html5-cual-es-la-forma-correcta-de-poner-negritas-strong-b-o-font-weight.aspx)
 * [EN] Herramienta - [HTML validator](https://validator.w3.org/nu/)
+* [EN] Herramienta - [HTML5 Element Flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
 ##### Español
@@ -266,6 +270,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
 * [EN] Herramienta - [Generador de logos](https://maketext.io/)
+* [EN] Herramienta - [Buttons Generator](https://markodenic.com/tools/buttons-generator/)
 * [EN] Herramienta - [Biblioteca de iconos Open Source](https://iconoir.com/)
 * [EN] Herramienta - [Wireframe, Diagram & Whiteboard Online](https://app.moqups.com/)
 * [EN] Herramienta - [Analyze fonts](https://fonty.io/)
@@ -337,6 +342,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] [Accesibilidad](https://www.w3.org/WAI/courses/list/)
 * [EN] [Accesibilidad](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
 * [EN] [CSS](https://flukeout.github.io/)
+* [EN] [CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)
 * [EN] [Full stack bootcamp](https://midu.dev/bootcamp-full-stack-gratis-2021/)
 * [EN] [HTML](https://html.com/)
 * [EN] [JavaScript](https://www.java5cript.com/)
@@ -392,6 +398,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
+* [ES] Artículo - [Querido/a Junior: el sector tech post-pandemia](https://www.codemotion.com/magazine/es/carreras-tech/querido-a-junior-el-sector-tech-post-pandemia/)
 * [ES] Artículo - [Cómo dar soporte a IE y no morir en el intento](https://marasalazar.medium.com/c%C3%B3mo-dar-soporte-a-ie-y-no-morir-en-el-intento-7049dcbbf43f)
 * [ES] Artículo - [Cómo escribir documentación ÚTIL](https://dev.to/miasalazar/como-escribir-documentacion-util-4l1i)
 * [ES] Artículo - [Optimizar tu GitHub y CV para pasar la revisión técnica](https://dev.to/miasalazar/optimizar-tu-github-y-cv-para-pasar-la-revision-tecnica-35ok)
@@ -405,4 +412,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 * [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
 
-277 - Actualización 27/10/2023
+285 - Actualización 12/11/2023

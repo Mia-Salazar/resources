@@ -43,7 +43,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 ##### Español
 * [EN] Vídeo - [Clean Architecture: Los peligros del módulo Shared](https://www.youtube.com/watch?v=AR-Ik7jnBSk&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
-
+  
 ### Angular
 ##### Inglés
 * [EN] Artículo - [Component styles](https://angular.io/guide/component-styles)
@@ -75,6 +75,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Use border-radius and outline simultaneously on Safari](https://medium.com/@jeandesravines/use-border-radius-and-outline-simultaneously-on-safari-14ce92889e1f)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
 * [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
+* [EN] Artículo - [How to Hide Scrollbar and Visible Only Scrolling](https://medium.com/frontend-development-with-js/how-to-hide-scrollbar-and-visible-only-scrolling-79cc3472e503)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
@@ -88,6 +89,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors/)
 * [EN] Herramienta - [Mastering CSS Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
 * [EN] Herramienta - [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+* [EN] Herramienta - [The most popular component library for Tailwind CSS](https://daisyui.com/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 
@@ -193,6 +195,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Inglés
 * [EN] Artículo - [PHP y la función header(location: )](https://es.stackoverflow.com/questions/19791/php-y-la-funci%C3%B3n-headerlocation)
 * [EN] Artículo - [Login with Google using JavaScript and PHP](https://artisansweb.net/login-with-google-using-javascript-php/)
+* [EN] Artículo - [PHP: ¿Cuál es la diferencia entre bindParam() y bindValue() en PDO?](https://es.stackoverflow.com/questions/59971/php-cu%C3%A1l-es-la-diferencia-entre-bindparam-y-bindvalue-en-pdo)
 ##### Español
 * [ES] Artículo - [Cabeceras HTTP en PHP para permitir el acceso CORS](https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/)
 
@@ -227,6 +230,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### SQL
 ##### Inglés
 * [EN] Artículo - [How to select first 10 elements from database using SQL?](https://stackoverflow.com/questions/1693754/how-to-select-first-10-elements-from-database-using-sql)
+* [EN] Artículo - [Empty string vs NULL](https://stackoverflow.com/questions/40651685/empty-string-vs-null)
 
 ### Testing
 ##### Inglés
@@ -253,7 +257,6 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ### Typescript
 ##### Inglés
 * [EN] Artículo - [Typescript strict](https://www.typescriptlang.org/tsconfig#strict)
-* [EN] Artículo - []()
 * [EN] Artículo - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any/)
 * [EN] Herramienta - [Librerías tipadas](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
 * [EN] Herramienta - [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
@@ -291,8 +294,10 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [SVG a personalizar](https://svghub.vercel.app/)
 * [EN] Herramienta - [Explorar colores](https://pigment.shapefactory.co/)
 * [EN] Herramienta - [CSS Gradient Generator](https://www.css-gradient.com/)
+* [EN] Herramienta - [Implementing theme toggles was never easier](https://toggles.dev/?utm_content=bufferb7cb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [EN] Herramienta - [Fluid Type Scale Calculator](https://www.fluid-type-scale.com/)
 * [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
+* [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
 
@@ -397,6 +402,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 ##### Español
+* [ES] Artículo - [La primera mujer del videojuego español](https://medium.com/free-play/la-primera-mujer-del-videojuego-espa%C3%B1ol-e2a970ed0dc8)
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Artículo - [Querido/a Junior: el sector tech post-pandemia](https://www.codemotion.com/magazine/es/carreras-tech/querido-a-junior-el-sector-tech-post-pandemia/)
 * [ES] Artículo - [Cómo dar soporte a IE y no morir en el intento](https://marasalazar.medium.com/c%C3%B3mo-dar-soporte-a-ie-y-no-morir-en-el-intento-7049dcbbf43f)
@@ -411,5 +417,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 * [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
+* [ES] Vídeo - [VISUAL STUDIO CODE: Tutorial para principiantes](https://www.youtube.com/watch?v=CxF3ykWP1H4)
+* [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 
-285 - Actualización 12/11/2023
+301 - Actualización 03/12/2023

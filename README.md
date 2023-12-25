@@ -71,6 +71,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [CSS Specificity](https://dev.to/taiwobello/css-specificity-3ik1)
 * [EN] Artículo - [CSS Container Queries](https://lenguajecss.com/css/responsive-web-design/css-container-queries/)
 * [EN] Artículo - [CSS functions](https://www.dofactory.com/css/functions)
+* [EN] Artículo - [Proximity Glow Cards](https://codepen.io/jh3y/pen/QWYPaax)
 * [EN] Artículo - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 * [EN] Artículo - [Use border-radius and outline simultaneously on Safari](https://medium.com/@jeandesravines/use-border-radius-and-outline-simultaneously-on-safari-14ce92889e1f)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
@@ -119,7 +120,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Qué es un honeypot?](https://latam.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [ES] Vídeo - [Vídeos sobre ciberseguridad](https://www.reydes.com/d/?q=videos)
 
-### Fron-end
+### Front-end
 ##### Inglés
 * [EN] Herramienta - [Improve your HTML and CSS skills by practicing on real design templates](https://www.codewell.cc/)
 * [EN] Herramienta - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
@@ -133,6 +134,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * [EN] Artículo - [Git - How to fix a bad commit](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
+* [EN] Artículo - [All the Git Commands You Need to Know](https://dev.to/frantchessico/all-the-git-commands-you-need-to-know-1m6e)
 * [EN] Artículo - [How do you stash an untracked file?](https://stackoverflow.com/questions/835501/how-do-you-stash-an-untracked-file)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
 * [EN] Herramienta - [git-standup](https://github.com/kamranahmedse/git-standup)
@@ -187,6 +189,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Español
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
+* [ES] Artículo - [Propagación y captura](https://es.javascript.info/bubbling-and-capturing)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 * [ES] Vídeo - [JSDayES 2018 - Pablo Magaz - "Escribiendo Service Workers con Workbox"](https://www.youtube.com/watch?v=GjXwJdYa3J4&ab_channel=JSDayES)
@@ -292,6 +295,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Probar matices de color en una interfaz](https://tintmint.net/)
 * [EN] Herramienta - [Escalas proporcionales de tipografía](https://proportio.app/)
 * [EN] Herramienta - [SVG a personalizar](https://svghub.vercel.app/)
+* [EN] Herramienta - [SVG logos](https://svgl.vercel.app/)
 * [EN] Herramienta - [Explorar colores](https://pigment.shapefactory.co/)
 * [EN] Herramienta - [CSS Gradient Generator](https://www.css-gradient.com/)
 * [EN] Herramienta - [Implementing theme toggles was never easier](https://toggles.dev/?utm_content=bufferb7cb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -299,7 +303,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
 * [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 ##### Español
-* [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo(https://www.uifrommars.com/como-hacer-handoff-diseno/)
+* [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
+* [ES] Presentación - [¿Qué hay de nuevo en la Web UI?](https://slides.com/carmenansio/que-hay-de-nuevo)
 
 # Otros
 Recursos y herramientas que no se pueden clasificar en las anteriores categorías
@@ -388,6 +393,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
 * [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
 * [EN] Artículo - [Learn about CPU](https://cpu.land/)
+* [EN] Artículo - [How to redirect HTTP to HTTPS Using .htaccess](https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/)
 * [EN] Artículo - [Geolocation getCurrentPosition() Method](https://www.w3schools.com/jsref/met_geo_getcurrentposition.asp)
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
@@ -419,5 +425,6 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
 * [ES] Vídeo - [VISUAL STUDIO CODE: Tutorial para principiantes](https://www.youtube.com/watch?v=CxF3ykWP1H4)
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
+* [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 
-301 - Actualización 03/12/2023
+308 - Actualización 25/12/2023

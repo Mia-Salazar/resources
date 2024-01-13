@@ -8,6 +8,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [EN] Artículo - [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
+* [EN] Artículo - [The digital gap: Accessibility and the elderly](https://dev.to/miasalazar/the-digital-gap-accessibility-and-the-elderly-59lc/)
 * [EN] Artículo - [WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
@@ -22,6 +23,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Generador de paletas accesibles](http://colorsafe.co/)
 * [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
+* [EN] Herramienta - [Cool Contrast](https://coolcontrast.vercel.app/)
 * [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
 * [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
 * [EN] Herramienta - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
@@ -91,8 +93,10 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Mastering CSS Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
 * [EN] Herramienta - [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 * [EN] Herramienta - [The most popular component library for Tailwind CSS](https://daisyui.com/)
+* [EN] Herramienta - [Flexbox Patterns](https://flexboxpatterns.com/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
+* [EN] Artículo - [Zelda Transición con perspectiva](https://codepen.io/carmenansio/pen/eYbEOLM)
 
 ### Componentes
 ##### Inglés
@@ -265,6 +269,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 ##### Español
 * [ES] Artículo - [Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
+* [ES] Artículo - [Patrones de diseño Typescript](https://refactoring.guru/es/design-patterns/typescript)
 
 ### UX/UI
 ##### Inglés
@@ -301,6 +306,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Implementing theme toggles was never easier](https://toggles.dev/?utm_content=bufferb7cb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [EN] Herramienta - [Fluid Type Scale Calculator](https://www.fluid-type-scale.com/)
 * [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
+* [EN] Herramienta - [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)
 * [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
@@ -404,6 +410,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [Coste añadir paquete npm](https://bundlephobia.com/)
 * [EN] Herramienta - [Type JSON](https://app.quicktype.io/)
 * [EN] Herramienta - [DevChallenges](https://devchallenges.io/)
+* [EN] Herramienta - [npm trends](https://npmtrends.com//)
 * [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
@@ -427,4 +434,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 
-308 - Actualización 25/12/2023
+315 - Actualización 13/01/2023

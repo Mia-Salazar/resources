@@ -414,6 +414,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
+* [ES] Vídeo - [Por qué es importante saber comunicar bien, por Raquel Lainde en Tech SHEssions 2020](https://www.youtube.com/watch?v=r9dZsNuTcQ8)
 ##### Español
 * [ES] Artículo - [La primera mujer del videojuego español](https://medium.com/free-play/la-primera-mujer-del-videojuego-espa%C3%B1ol-e2a970ed0dc8)
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
@@ -434,4 +435,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 
-315 - Actualización 13/01/2023
+316 - Actualización 21/01/2023

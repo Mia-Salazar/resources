@@ -94,6 +94,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 * [EN] Herramienta - [The most popular component library for Tailwind CSS](https://daisyui.com/)
 * [EN] Herramienta - [Flexbox Patterns](https://flexboxpatterns.com/)
+* [EN] Herramienta - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 * [EN] Artículo - [Zelda Transición con perspectiva](https://codepen.io/carmenansio/pen/eYbEOLM)
@@ -386,6 +387,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] [Gut](https://learngitbranching.js.org/?locale=es_ES)
 * [ES] [Google Activate: Cursos gratuitos de competencias digitales](https://learndigital.withgoogle.com/activate/)
 * [ES] [C#](https://hdeleon.net/curso-de-fundamentos-de-c-net-core/)
+* [ES] [Accesibilidad](https://www.udemy.com/course/aprende-accesibilidad-web-paso-a-paso/)
   
 ### Herramientas
 ##### Inglés
@@ -410,11 +412,13 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [Coste añadir paquete npm](https://bundlephobia.com/)
 * [EN] Herramienta - [Type JSON](https://app.quicktype.io/)
 * [EN] Herramienta - [DevChallenges](https://devchallenges.io/)
-* [EN] Herramienta - [npm trends](https://npmtrends.com//)
+* [EN] Herramienta - [iterview warmup](https://npmtrends.com/)
+* [EN] Herramienta - [npm trends](https://grow.google/certificates/interview-warmup/)
 * [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 * [ES] Vídeo - [Por qué es importante saber comunicar bien, por Raquel Lainde en Tech SHEssions 2020](https://www.youtube.com/watch?v=r9dZsNuTcQ8)
+* [ES] Vídeo - [Tips & Trics: Cómo hacer que tu CV enamore](https://www.youtube.com/watch?v=KMh9sDmVCno)
 ##### Español
 * [ES] Artículo - [La primera mujer del videojuego español](https://medium.com/free-play/la-primera-mujer-del-videojuego-espa%C3%B1ol-e2a970ed0dc8)
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
@@ -435,4 +439,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 
-316 - Actualización 21/01/2023
+320 - Actualización 01/02/2023

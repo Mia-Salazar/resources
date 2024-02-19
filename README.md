@@ -62,6 +62,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [Why you should never use px to set font-size in CSS
 PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-font-size)
 * [EN] Artículo - [An Introduction to the `fr` CSS unit](https://css-tricks.com/introduction-fr-css-unit/)
+* [EN] Artículo - [The “Gray Dead Zone” of Gradients](https://css-tricks.com/the-gray-dead-zone-of-gradients/#:~:text=If%20you%20have%20a%20gradient,dead%20zone%E2%80%9D%20in%20the%20middle)
 * [EN] Artículo - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [EN] Artículo - [Reduce Angular style size (using PurgeCSS to remove unused styles)](https://dev.to/dylanvdmerwe/reduce-angular-style-size-using-purgecss-to-remove-unused-styles-3b2k)
 * [EN] Artículo - [13 Beautiful Gradient Tools Every Web Designer Should Know](https://dev.to/madza/13-beautiful-gradient-tools-every-web-designer-should-know-4dbk)
@@ -139,6 +140,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Professional Git Workflow & GitHub Setup for (React) Developers (incl screencast)](https://dev.to/profydev/professional-git-workflow-github-setup-for-react-developers-pfj)
 * [EN] Artículo - [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * [EN] Artículo - [Git - How to fix a bad commit](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
+* [EN] Artículo - [How I teach Git](https://dev.to/tbroyer/how-i-teach-git-3nj3)
 * [EN] Artículo - [All the Git Commands You Need to Know](https://dev.to/frantchessico/all-the-git-commands-you-need-to-know-1m6e)
 * [EN] Artículo - [How do you stash an untracked file?](https://stackoverflow.com/questions/835501/how-do-you-stash-an-untracked-file)
 * [EN] Artículo - [Move existing, uncommitted work to a new branch in Git](https://stackoverflow.com/questions/1394797/move-existing-uncommitted-work-to-a-new-branch-in-git)
@@ -218,6 +220,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
 * [EN] Artículo - [Conditional hooks?](https://dev.to/lexlohr/conditional-hooks-1fpj)
+* [EN] Artículo - [React Query - useMutation](https://blog.delpuppo.net/react-query-usemutation)
 * [EN] Artículo - [Avoiding flash of unwanted animation on first render in React](https://dev.to/thomasledoux1/avoiding-flash-of-unwanted-animation-on-first-render-in-react-1o0c)
 * [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 * [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
@@ -278,6 +281,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Responsive Grid Design: Ultimate Guide]https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892)
 * [EN] Artículo - [Why icomoon, why?](https://marasalazar.medium.com/why-icomoon-why-15c2d78ec96e)
 * [EN] Artículo - [Selección de fuentes que van bien juntas](https://www.fontbuddies.com/)
+* [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
 * [EN] Artículo - [How to use chatGPT for UI/UX design: 25 examples](https://blog.prototypr.io/how-to-use-chatgpt-for-ui-ux-design-25-examples-f7772bea3e70)
 * [EN] Libro - [Design systems guide](https://thedesignsystem.guide/)
 * [EN] Herramienta - [Generador de paletas de colores](https://meodai.github.io/poline/)
@@ -399,6 +403,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
+* [EN] Artículo - [How to do a GOOD technical onboarding](https://dev.to/miasalazar/how-to-do-a-good-technical-onboarding-5dm3)
 * [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
 * [EN] Artículo - [Learn about CPU](https://cpu.land/)
 * [EN] Artículo - [How to redirect HTTP to HTTPS Using .htaccess](https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/)
@@ -439,4 +444,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 
-320 - Actualización 01/02/2023
+325 - Actualización 19/02/2023

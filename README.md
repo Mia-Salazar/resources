@@ -5,6 +5,7 @@ Todos los recursos son **gratuitos**.
 
 ### Accesibilidad
 ##### Inglés
+* [EN] Artículo - [More Accessible Skeletons](https://adrianroselli.com/2020/11/more-accessible-skeletons.html)
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
 * [EN] Artículo - [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
@@ -27,6 +28,8 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
 * [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
 * [EN] Herramienta - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
+* [EN] Herramienta - [Colorblindy](https://chromewebstore.google.com/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
+* [EN] Herramienta - [Screen reader](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
 * [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
 * [EN] Libro - [Libro "Accesibilidad web. WCAG 2.1 de forma sencilla". Descarga gratuita.](https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html)
 ##### Español
@@ -78,6 +81,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 * [EN] Artículo - [Use border-radius and outline simultaneously on Safari](https://medium.com/@jeandesravines/use-border-radius-and-outline-simultaneously-on-safari-14ce92889e1f)
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
+* [EN] Artículo - [Simplify Your Color Palette With CSS Color-Mix()](https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/)
+* [EN] Artículo - [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 * [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
 * [EN] Artículo - [How to Hide Scrollbar and Visible Only Scrolling](https://medium.com/frontend-development-with-js/how-to-hide-scrollbar-and-visible-only-scrolling-79cc3472e503)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
@@ -165,7 +170,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Can I use (with HTML)](https://caninclude.glitch.me/)
 * [ES] Artículo - [Guía responsive image: Los atributos srcset y sizes y las bases de selección: art direction, dpi y tamaños](https://escss.blogspot.com/2014/10/responsive-images-picture-srcset.html)
 ##### Español
-* [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularios?(https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
+* [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularies?](https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
+* [ES] Artículo - [Etiquetas de HTML Semántico?](https://marcomadera.com/blog/html-semantico)
 
 ### IA
 ##### Inglés
@@ -400,9 +406,11 @@ Mujeres que inspiran y a las que admiro
 
 ### Útil
 ##### Inglés
+* [EN] Artículo - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
+* [EN] Artículo - [How do we control web page caching, across all browsers?](https://stackoverflow.com/questions/49547/how-do-we-control-web-page-caching-across-all-browsers/)
 * [EN] Artículo - [How to do a GOOD technical onboarding](https://dev.to/miasalazar/how-to-do-a-good-technical-onboarding-5dm3)
 * [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
 * [EN] Artículo - [Learn about CPU](https://cpu.land/)
@@ -443,5 +451,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [VISUAL STUDIO CODE: Tutorial para principiantes](https://www.youtube.com/watch?v=CxF3ykWP1H4)
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
+* [ES] Vídeo - [Storytelling: El arte de deleitar a tu audiencia, por Ester de Nicolás](https://www.youtube.com/watch?v=9bw2QUftflw&ab_channel=CommitConf)
+* [ES] Vídeo - [Fighting: el síndrome del impostor, por Laura Lacarra.](https://www.youtube.com/watch?v=cHDjL88So5I&t=2s&ab_channel=CommitConf)
 
-325 - Actualización 19/02/2023
+335 - Actualización 22/03/2023

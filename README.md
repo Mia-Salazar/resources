@@ -5,6 +5,7 @@ Todos los recursos son **gratuitos**.
 
 ### Accesibilidad
 ##### Inglés
+* [EN] Artículo - [Are we live?](https://www.scottohara.me/blog/2022/02/05/are-we-live.html)
 * [EN] Artículo - [More Accessible Skeletons](https://adrianroselli.com/2020/11/more-accessible-skeletons.html)
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
 * [EN] Artículo - [43 Browser Extensions to Perform Accessibility Testing Effectively](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
@@ -14,6 +15,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Artículo - [A Developer’s Nightmare: Web Accessibility](https://marasalazar.medium.com/developers-nightmare-web-accessibility-52b9a6890403)
 * [EN] Artículo - [How to build a more accessible carousel or slider](https://dev.to/jasonwebb/how-to-build-a-more-accessible-carousel-or-slider-35lp)
 * [EN] Artículo - [In Quest of Search](https://www.sarasoueidan.com/blog/in-quest-of-search/)
+* [EN] Artículo - [Semantic HTML: Survival Guideh](https://dev.to/miasalazar/semantic-html-survival-guide-6ca)
 * [EN] Artículo - [A 10-step approach to inclusive branding, using the BBC as an example](https://uxdesign.cc/a-10-step-approach-to-inclusive-branding-using-the-bbc-as-an-example-a05835b7a73)
 * [EN] Artículo - [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
 * [EN] Artículo - [Accessibility Beyond Compliance: What Baking Teaches Us](https://meryl.net/accessibility-beyond-compliance/)
@@ -42,6 +44,8 @@ Todos los recursos son **gratuitos**.
 * [ES] Vídeo - [¿Cómo testear la accesibilidad web en tu proyecto?](https://www.youtube.com/watch?v=f6ctGw-hRD0&ab_channel=ParadigmaDigital)
 * [ES] Vídeo - [EXPRESIONES REGULARES Desde Cero](https://www.youtube.com/watch?v=MRKpVxn5fqI)
 * [ES] Vídeo - [Por qué no puede haber SOLID sin Eventos de Dominio](https://www.youtube.com/watch?v=159SstwQWE4)
+* [ES] Vídeo - [Javascript killed the Powerpoint star - T3chFest 2024](https://www.youtube.com/watch?v=GE63C4U68Ro&ab_channel=T3chFest)
+* [ES] Vídeo - [Accesibilidad web: Guía para noobies - T3chFest 2024](https://www.youtube.com/watch?v=gKBTMnxLGvc&list=PLqgZDFdwyB8YYRsd91u4zsPsoQ1pflWO4&index=45&ab_channel=T3chFest)
 
 ### Arquitectura
 ##### Inglés
@@ -59,6 +63,8 @@ Todos los recursos son **gratuitos**.
 
 ### CSS
 ##### Inglés
+* [EN] Artículo - [Don't use @font-face in styled-components](https://font-face-styled-components.netlify.app/)
+* [EN] Artículo - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 * [EN] Artículo - [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 * [EN] Artículo - [CSS Language Speak: Container vs Wrapper?](https://stackoverflow.com/questions/4059163/css-language-speak-container-vs-wrapper)
 * [EN] Artículo - [Ellipsis truncation and flexbox without a specific width](https://codepen.io/unthinkingly/full/XMwJLG)
@@ -133,6 +139,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Front-end
 ##### Inglés
+* [EN] Artículo - [Microfrontends: Which Framework to Use?](https://levelup.gitconnected.com/microfrontends-which-framework-to-use-457d5bed173e)
 * [EN] Herramienta - [Improve your HTML and CSS skills by practicing on real design templates](https://www.codewell.cc/)
 * [EN] Herramienta - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
 * [EN] Herramienta - [Frontend practice](https://www.frontendpractice.com/)
@@ -200,6 +207,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Everything You Need to Know About Cookies for Web Development](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
 ##### Español
+* [ES] Artículo - [¿Qué diferencia async y defer en JavaScript?](https://cybmeta.com/diferencia-async-y-defer)
+* [ES] Artículo - [Métodos de Promesa en JavaScript](https://medium.com/dottech/m%C3%A9todos-de-promesa-en-javascript-f13f98f0d8b56)
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
 * [ES] Artículo - [Propagación y captura](https://es.javascript.info/bubbling-and-capturing)
@@ -217,6 +226,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### React
 ##### Inglés
+* [EN] Artículo - [React Snapshot Testing: The Bad Parts](https://ntgard.medium.com/jest-snapshot-testing-the-bad-parts-c93aca187ba5)
 * [EN] Artículo - [Handling `undefined` in React Query and Typescript](https://www.neldeles.com/blog/posts/handling-undefined-in-react-query)
 * [EN] Artículo - [Aprende Cómo Aplicar los Principios SOLID en React JS](https://developero.io/blog/react-solid-example)
 * [EN] Artículo - [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
@@ -240,6 +250,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
+* [ES] Artículo - [useAxios: A React Hook for using Axios](https://javascript.plainenglish.io/useaxios-a-react-hook-for-using-axios-c798762d1a13)
 * [ES] Vídeo - [Aprendiendo NextJS, el framework de React con Server Side Rendering](https://www.youtube.com/watch?v=2jxc8DMzt0I&ab_channel=midudev)
 * [ES] Vídeo - [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
 * [ES] Vídeo - [React Query - Estado asíncronos con superpoderes](https://www.youtube.com/watch?v=vK08KlaXYlc&ab_channel=Garajedeideas)
@@ -319,6 +330,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator)
 * [EN] Herramienta - [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)
 * [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [EN] Herramienta - [Golden Ratio Typography (GRT) Calculator](https://grtcalculator.com/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
 * [ES] Presentación - [¿Qué hay de nuevo en la Web UI?](https://slides.com/carmenansio/que-hay-de-nuevo)
@@ -406,6 +418,9 @@ Mujeres que inspiran y a las que admiro
 
 ### Útil
 ##### Inglés
+* [ES] Artículo - [GIT vs SVN – ¿Cuáles son las principales diferencias?](https://labitstudio.com/diferencias-sistemas-control-de-versiones/)
+* [ES] Artículo - [WTF is SRE? The job nobody understands.](https://nevkontakte.com/2020/wtf-is-sre.html)
+* [ES] Artículo - [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
 * [EN] Artículo - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
@@ -445,6 +460,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Crear métricas en Google Analytics 4](https://dev.to/miasalazar/crear-metricas-en-google-analytics-4-5938)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Herramienta - [Step4ward mentoras](https://step4ward.notion.site/)
+* [ES] Vídeo - [Teresa Lobo - Testeando la caja de Schrödinger: QA para sistemas de ML](https://www.youtube.com/watch?v=olFuhHyz854&ab_channel=CommitConf)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
 * [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
@@ -453,5 +469,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 * [ES] Vídeo - [Storytelling: El arte de deleitar a tu audiencia, por Ester de Nicolás](https://www.youtube.com/watch?v=9bw2QUftflw&ab_channel=CommitConf)
 * [ES] Vídeo - [Fighting: el síndrome del impostor, por Laura Lacarra.](https://www.youtube.com/watch?v=cHDjL88So5I&t=2s&ab_channel=CommitConf)
+* [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
+* [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
-335 - Actualización 22/03/2023
+354 - Actualización 03/05/2023

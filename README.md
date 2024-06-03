@@ -33,19 +33,22 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Colorblindy](https://chromewebstore.google.com/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
 * [EN] Herramienta - [Screen reader](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
 * [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
-* [EN] Libro - [Libro "Accesibilidad web. WCAG 2.1 de forma sencilla". Descarga gratuita.](https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html)
 ##### Español
+* [ES] Artículo - [Ejemplo ARIA: Live Region](https://www.usableyaccesible.com/ejemplo_aria_live/ejemplo_liveregions.html)
+* [ES] Artículo - [ARIA attributes: The forgotten ones of accessibility](https://dev.to/miasalazar/aria-attributes-the-forgotten-ones-of-accessibility-4e12)
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
 * [ES] Artículo - [La importancia del color en la accesibilidad](https://dev.to/miasalazar/la-importancia-del-color-en-la-accesibilidad-1o9o)
 * [ES] Artículo - [¿Sabes escribir un buen Alt-Text?](https://www.hiexperience.es/blog/escribir-un-buen-alt-text)
 * [ES] Artículo - [Declaración de accesibilidad](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/implantacion-rd-1112-2018/declaracion_accesibilidad.html)
+* [EN] Libro - [Libro "Accesibilidad web. WCAG 2.1 de forma sencilla". Descarga gratuita.](https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html)
 * [ES] Vídeo - [¿Cómo testear la accesibilidad web en tu proyecto?](https://www.youtube.com/watch?v=f6ctGw-hRD0&ab_channel=ParadigmaDigital)
 * [ES] Vídeo - [EXPRESIONES REGULARES Desde Cero](https://www.youtube.com/watch?v=MRKpVxn5fqI)
 * [ES] Vídeo - [Por qué no puede haber SOLID sin Eventos de Dominio](https://www.youtube.com/watch?v=159SstwQWE4)
 * [ES] Vídeo - [Javascript killed the Powerpoint star - T3chFest 2024](https://www.youtube.com/watch?v=GE63C4U68Ro&ab_channel=T3chFest)
 * [ES] Vídeo - [Accesibilidad web: Guía para noobies - T3chFest 2024](https://www.youtube.com/watch?v=gKBTMnxLGvc&list=PLqgZDFdwyB8YYRsd91u4zsPsoQ1pflWO4&index=45&ab_channel=T3chFest)
+* [ES] Vídeo - [Perros robots como asistentes para personas invidentes o dependientes - T3chFest 2024](https://www.youtube.com/watch?v=HhrJNy8nXHc)
 
 ### Arquitectura
 ##### Inglés
@@ -218,14 +221,17 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### PHP
 ##### Inglés
-* [EN] Artículo - [PHP y la función header(location: )](https://es.stackoverflow.com/questions/19791/php-y-la-funci%C3%B3n-headerlocation)
+* [EN] Artículo - [Optimizing PHP applications for performance](https://mateusguimaraes.com/posts/optimizing-php-applications-for-performance)
 * [EN] Artículo - [Login with Google using JavaScript and PHP](https://artisansweb.net/login-with-google-using-javascript-php/)
-* [EN] Artículo - [PHP: ¿Cuál es la diferencia entre bindParam() y bindValue() en PDO?](https://es.stackoverflow.com/questions/59971/php-cu%C3%A1l-es-la-diferencia-entre-bindparam-y-bindvalue-en-pdo)
 ##### Español
+* [EN] Artículo - [PHP y la función header(location: )](https://es.stackoverflow.com/questions/19791/php-y-la-funci%C3%B3n-headerlocation)
 * [ES] Artículo - [Cabeceras HTTP en PHP para permitir el acceso CORS](https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/)
+* [EN] Artículo - [PHP: ¿Cuál es la diferencia entre bindParam() y bindValue() en PDO?](https://es.stackoverflow.com/questions/59971/php-cu%C3%A1l-es-la-diferencia-entre-bindparam-y-bindvalue-en-pdo)
 
 ### React
 ##### Inglés
+* [EN] Artículo - [How to solve the "update was not wrapped in act()" warning in testing-library-react?](https://stackoverflow.com/questions/60115885/how-to-solve-the-update-was-not-wrapped-in-act-warning-in-testing-library-re)
+* [EN] Artículo - [Publish a React app with FTP](https://medium.com/@saidmysr20/publish-a-react-app-with-ftp-c08ed22e5fb)
 * [EN] Artículo - [React Snapshot Testing: The Bad Parts](https://ntgard.medium.com/jest-snapshot-testing-the-bad-parts-c93aca187ba5)
 * [EN] Artículo - [Handling `undefined` in React Query and Typescript](https://www.neldeles.com/blog/posts/handling-undefined-in-react-query)
 * [EN] Artículo - [Aprende Cómo Aplicar los Principios SOLID en React JS](https://developero.io/blog/react-solid-example)
@@ -447,6 +453,9 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 * [ES] Vídeo - [Por qué es importante saber comunicar bien, por Raquel Lainde en Tech SHEssions 2020](https://www.youtube.com/watch?v=r9dZsNuTcQ8)
 * [ES] Vídeo - [Tips & Trics: Cómo hacer que tu CV enamore](https://www.youtube.com/watch?v=KMh9sDmVCno)
+* [ES] Vídeo - [¿Para qué sirve la física? - T3chFest 2024](https://www.youtube.com/watch?v=f4nx8h5BTDA)
+* [ES] Vídeo - [Mánu Fosela: Liderar no es coser y cantar.](https://www.youtube.com/watch?v=WNlaWIQseUo)
+
 ##### Español
 * [ES] Artículo - [La primera mujer del videojuego español](https://medium.com/free-play/la-primera-mujer-del-videojuego-espa%C3%B1ol-e2a970ed0dc8)
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
@@ -472,4 +481,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
-354 - Actualización 03/05/2023
+362 - Actualización 03/05/2023

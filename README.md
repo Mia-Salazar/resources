@@ -92,6 +92,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [:focus-within](https://developer.mozilla.org/es/docs/Web/CSS/:focus-within)
 * [EN] Artículo - [Simplify Your Color Palette With CSS Color-Mix()](https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/)
 * [EN] Artículo - [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+* [EN] Artículo - [Always great grid - CSS grid + :has() + view transitions](https://codepen.io/argyleink/pen/RwdRaVg)
 * [EN] Artículo - [Using Flexbox and text ellipsis together](https://css-tricks.com/using-flexbox-and-text-ellipsis-together/)
 * [EN] Artículo - [How to Hide Scrollbar and Visible Only Scrolling](https://medium.com/frontend-development-with-js/how-to-hide-scrollbar-and-visible-only-scrolling-79cc3472e503)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
@@ -112,7 +113,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 #### Español
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
-* [EN] Artículo - [Zelda Transición con perspectiva](https://codepen.io/carmenansio/pen/eYbEOLM)
+* [ES] Artículo - [Zelda Transición con perspectiva](https://codepen.io/carmenansio/pen/eYbEOLM)
+* [ES] Vídeo - [SÓLO 3 LÍNEAS: CSS Grid responsive sin media queries](https://www.youtube.com/watch?v=El0OJ6h_2ZI&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 
 ### Componentes
 ##### Inglés
@@ -147,7 +149,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
 * [EN] Herramienta - [Frontend practice](https://www.frontendpractice.com/)
 ##### Español
-* [EN] Herramienta - [Pruebas técnicas de Programación](https://pruebastecnicas.com/)
+* [ES] Artículo - [Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
+* [ES] Herramienta - [Pruebas técnicas de Programación](https://pruebastecnicas.com/)
 
 ### Git
 ##### Inglés
@@ -208,6 +211,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Nullish Coalescing vs OR - JavaScript operators (?? vs ||)](https://atomizedobjects.com/blog/javascript/nullish-coalescing-vs-or-javascript-operators/#:~:text=Operator%20in%20JS%3F-,The%20difference%20between%20the%20Nullish%20Coalescing%20Operator%20vs%20OR%20Operator,is%20%E2%80%9Cfalsy%E2%80%9D%20or%20not)
 * [EN] Artículo - [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * [EN] Artículo - [How to use the Dev.to API in 2022](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
+* [EN] Artículo - [seal vs freeze vs preventExtenstions in JS](https://dev.to/shwetabh1/seal-vs-freeze-vs-preventextenstions-in-js-4mad)
 * [EN] Artículo - [Everything You Need to Know About Cookies for Web Development](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
 ##### Español
@@ -216,9 +220,11 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Qué es el hoisting?](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
 * [ES] Artículo - [Tipos de console](https://developer.mozilla.org/es/docs/Web/API/Console)
 * [ES] Artículo - [Propagación y captura](https://es.javascript.info/bubbling-and-capturing)
+* [ES] Artículo - [Programa en Javascript como una persona Pro](https://dev.to/miasalazar/programa-en-javascript-como-una-persona-pro-42c5)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 * [ES] Vídeo - [JSDayES 2018 - Pablo Magaz - "Escribiendo Service Workers con Workbox"](https://www.youtube.com/watch?v=GjXwJdYa3J4&ab_channel=JSDayES)
+* [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
 ### PHP
 ##### Inglés
@@ -282,6 +288,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Cypress vs Playwright: Which is best for E2E testing?](https://cathalmacdonnacha.com/cypress-vs-playwright-which-is-best-for-e2e-testing)
 * [EN] Artículo - [Migrating from Cypress to Playwright](https://medium.com/@lucgagan/migrating-from-cypress-to-playwright-a7add04b02b3)
 * [EN] Artículo - [Playwright Select First or Last Element](https://www.programsbuzz.com/article/playwright-select-first-or-last-element)
+* [EN] Artículo - [Migrate from Enzyme](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme/)
+* [EN] Artículo - [:focus-visible](https://css-tricks.com/almanac/selectors/f/focus-visible/)
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 
@@ -443,6 +451,7 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Artículo - [Manage global state with Recoil.js](https://dev.to/eduardo_alvarez_946ae8b20/manage-global-state-with-recoi-js-4a2)
+* [EN] Artículo - [What is WebP? Pros and cons of this next-gen image format]([https://dev.to/eduardo_alvarez_946ae8b20/manage-global-state-with-recoi-js-4a2](https://99designs.com/blog/tips/webp-image-format/))
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
 * [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
@@ -487,4 +496,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
-368 - Actualización 29/06/2023
+377 - Actualización 29/07/2023

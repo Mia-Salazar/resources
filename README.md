@@ -43,6 +43,7 @@ Todos los recursos son **gratuitos**.
 * [ES] Artículo - [¿Sabes escribir un buen Alt-Text?](https://www.hiexperience.es/blog/escribir-un-buen-alt-text)
 * [ES] Artículo - [Declaración de accesibilidad](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/implantacion-rd-1112-2018/declaracion_accesibilidad.html)
 * [EN] Libro - [Libro "Accesibilidad web. WCAG 2.1 de forma sencilla". Descarga gratuita.](https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html)
+* [EN] Libro - [Libro blanco de accesibilidad para desarrolladores de videojuegos](https://biblioteca.fundaciononce.es/publicaciones/colecciones-propias/coleccion-accesibilidad/libro-blanco-de-accesibilidad-para)
 * [ES] Vídeo - [¿Cómo testear la accesibilidad web en tu proyecto?](https://www.youtube.com/watch?v=f6ctGw-hRD0&ab_channel=ParadigmaDigital)
 * [ES] Vídeo - [EXPRESIONES REGULARES Desde Cero](https://www.youtube.com/watch?v=MRKpVxn5fqI)
 * [ES] Vídeo - [Por qué no puede haber SOLID sin Eventos de Dominio](https://www.youtube.com/watch?v=159SstwQWE4)
@@ -172,7 +173,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### HTML
 ##### Inglés
-* [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
+* [EN] Artículo - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
@@ -249,11 +250,15 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 * [EN] Artículo - [Next.js vs React: What are the differences?](https://www.imaginarycloud.com/blog/next-js-vs-react/)
 * [EN] Artículo - [Conditional hooks?](https://dev.to/lexlohr/conditional-hooks-1fpj)
+* [EN] Artículo - [Test styled components in React efficiently using ‘displayName’](https://javascript.plainenglish.io/test-styled-components-in-react-efficiently-using-displayname-53281a0c1f2d)
 * [EN] Artículo - [How to create sticky headers on scroll with react](https://stackoverflow.com/questions/62970456/how-to-create-sticky-headers-on-scroll-with-react)
 * [EN] Artículo - [React Query - useMutation](https://blog.delpuppo.net/react-query-usemutation)
 * [EN] Artículo - [Avoiding flash of unwanted animation on first render in React](https://dev.to/thomasledoux1/avoiding-flash-of-unwanted-animation-on-first-render-in-react-1o0c)
 * [EN] Artículo - [Theming React Components with CSS Variables](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 * [EN] Artículo - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
+* [ES] Artículo - [useAxios: A React Hook for using Axios](https://javascript.plainenglish.io/useaxios-a-react-hook-for-using-axios-c798762d1a13)
+* [ES] Artículo - [React Router VS Reach Router](https://blog.bitsrc.io/react-router-vs-reach-router-d26fe706d8db)
+* [ES] Artículo - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 * [EN] Artículo - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/#conclusion/)
 * [EN] Artículo - [Difference between PropTypes.exact and PropTypes.shape](https://stackoverflow.com/questions/59019287/difference-between-proptypes-exact-and-proptypes-shape)
 * [EN] Herramienta - [React Dev Tools](https://github.com/facebook/react-devtools)
@@ -264,7 +269,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
-* [ES] Artículo - [useAxios: A React Hook for using Axios](https://javascript.plainenglish.io/useaxios-a-react-hook-for-using-axios-c798762d1a13)
+* [ES] Artículo - [Formularios dinámicos con Formik y React JS.](https://dev.to/franklin030601/formularios-dinamicos-con-formik-y-react-js-4hne)
 * [ES] Vídeo - [Aprendiendo NextJS, el framework de React con Server Side Rendering](https://www.youtube.com/watch?v=2jxc8DMzt0I&ab_channel=midudev)
 * [ES] Vídeo - [¿Qué es JSX? Todo lo que necesitas saber](https://www.youtube.com/watch?v=oGSf4_bOzec&ab_channel=CarlosAzaustre-AprendeJavaScript)
 * [ES] Vídeo - [React Query - Estado asíncronos con superpoderes](https://www.youtube.com/watch?v=vK08KlaXYlc&ab_channel=Garajedeideas)
@@ -489,6 +494,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0&ab_channel=T3chFest)
 * [ES] Vídeo - [VISUAL STUDIO CODE: Tutorial para principiantes](https://www.youtube.com/watch?v=CxF3ykWP1H4)
 * [ES] Vídeo - [Las 15 MEJORES EXTENSIONES para VSCODE](https://www.youtube.com/watch?v=lv88bCi7eyg)
+* [ES] Vídeo - [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0)
 * [ES] Vídeo - [Sororidad práctica: estrategias y tácticas que contrarrestan la discriminación inconsciente](https://www.youtube.com/watch?v=w2ZJR5nbF7o)
 * [ES] Vídeo - ["Superando a Murphy: qué hacer cuando todo sale mal" por María Fernández](https://www.youtube.com/watch?v=wf9-FxxI6DQ)
 * [ES] Vídeo - [Storytelling: El arte de deleitar a tu audiencia, por Ester de Nicolás](https://www.youtube.com/watch?v=9bw2QUftflw&ab_channel=CommitConf)
@@ -496,4 +502,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
-377 - Actualización 29/07/2023
+384 - Actualización 26/08/2024

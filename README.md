@@ -98,6 +98,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to Hide Scrollbar and Visible Only Scrolling](https://medium.com/frontend-development-with-js/how-to-hide-scrollbar-and-visible-only-scrolling-79cc3472e503)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
+* [EN] Herramienta - [Hover me animation](https://codepen.io/carmenansio/pen/ExqVamE)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
 * [EN] Herramienta - [Evitar cambio de classnames](https://github.com/styled-components/jest-styled-components)
 * [EN] Herramienta - [Generador de grandient text](https://www.cssgradienttext.com/)
@@ -175,6 +176,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Inglés
 * [EN] Artículo - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
+* [EN] Artículo - [How to disable Google translate from HTML in Chrome](https://stackoverflow.com/questions/12238396/how-to-disable-google-translate-from-html-in-chrome)
 * [EN] Artículo - [HTML <video> poster Attribute](https://www.w3schools.com/tags/att_video_poster.asp)
 * [EN] Artículo - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
 * [EN] Artículo - [A free guide to HTML](https://htmlreference.io/)
@@ -215,6 +217,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [seal vs freeze vs preventExtenstions in JS](https://dev.to/shwetabh1/seal-vs-freeze-vs-preventextenstions-in-js-4mad)
 * [EN] Artículo - [Everything You Need to Know About Cookies for Web Development](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
+* [EN] Libro - [Javascript best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 ##### Español
 * [ES] Artículo - [¿Qué diferencia async y defer en JavaScript?](https://cybmeta.com/diferencia-async-y-defer)
 * [ES] Artículo - [Métodos de Promesa en JavaScript](https://medium.com/dottech/m%C3%A9todos-de-promesa-en-javascript-f13f98f0d8b56)
@@ -295,6 +298,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Playwright Select First or Last Element](https://www.programsbuzz.com/article/playwright-select-first-or-last-element)
 * [EN] Artículo - [Migrate from Enzyme](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme/)
 * [EN] Artículo - [:focus-visible](https://css-tricks.com/almanac/selectors/f/focus-visible/)
+* [EN] Artículo - [Making sure you're using the correct query](https://timdeschryver.dev/blog/making-sure-youre-using-the-correct-query#)
+* [EN] Artículo - [Selecting Options in Dropdown with Playwright and TypeScript](https://medium.com/@semihkasimoglu/selecting-options-in-dropdown-with-playwright-and-typescript-e0cf3edf73a8)
 * [EN] Herramienta - [Generador datos falsos](https://fakerjs.dev/)
 * [EN] Herramienta - [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related)
 
@@ -352,6 +357,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)
 * [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [EN] Herramienta - [Golden Ratio Typography (GRT) Calculator](https://grtcalculator.com/)
+* [EN] Herramienta - [Departure mono library](https://departuremono.com/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
 * [ES] Presentación - [¿Qué hay de nuevo en la Web UI?](https://slides.com/carmenansio/que-hay-de-nuevo)
@@ -456,7 +462,8 @@ Mujeres que inspiran y a las que admiro
 * [EN] Artículo - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [EN] Artículo - [How to Structure CSS in Vue Like a Pro](https://marasalazar.medium.com/how-to-structure-css-in-vue-like-a-pro-5475749cf5ea)
 * [EN] Artículo - [Manage global state with Recoil.js](https://dev.to/eduardo_alvarez_946ae8b20/manage-global-state-with-recoi-js-4a2)
-* [EN] Artículo - [What is WebP? Pros and cons of this next-gen image format]([https://dev.to/eduardo_alvarez_946ae8b20/manage-global-state-with-recoi-js-4a2](https://99designs.com/blog/tips/webp-image-format/))
+* [EN] Artículo - [What is WebP? Pros and cons of this next-gen image format](https://99designs.com/blog/tips/webp-image-format/)
+* [EN] Artículo - [Cómo jugar a rol me hizo mejor programadora](https://dev.to/miasalazar/como-jugar-a-rol-me-hizo-mejor-programadora-3f66)
 * [EN] Libro - [Patrones](https://www.patterns.dev/)
 * [EN] Herramienta - [The very first escape game for coders and non-coders](https://escape.codingame.com/?continue=%2Fgames)
 * [EN] Herramienta - [Remote jobs](https://github.com/remote-es/remotes)
@@ -502,4 +509,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 
-384 - Actualización 26/08/2024
+391 - Actualización 30/09/2024

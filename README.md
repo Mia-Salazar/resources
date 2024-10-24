@@ -27,6 +27,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Accessibility testing]([http://colorsafe.co/](https://playwright.dev/docs/accessibility-testing))
 * [EN] Herramienta - [Paletas accesibles](https://randoma11y.com/?color=teal)
 * [EN] Herramienta - [Cool Contrast](https://coolcontrast.vercel.app/)
+* [EN] Herramienta - [ARIA DevTools](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [EN] Herramienta - [Checklist - The A11Y Project](https://www.a11yproject.com/checklist/)
 * [EN] Herramienta - [Accessible Button Contrast Generator](https://buttonbuddy.dev/#generator/)
 * [EN] Herramienta - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
@@ -34,6 +35,7 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Screen reader](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
 * [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
 ##### Español
+* [ES] Artículo - [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
 * [ES] Artículo - [Ejemplo ARIA: Live Region](https://www.usableyaccesible.com/ejemplo_aria_live/ejemplo_liveregions.html)
 * [ES] Artículo - [ARIA attributes: The forgotten ones of accessibility](https://dev.to/miasalazar/aria-attributes-the-forgotten-ones-of-accessibility-4e12)
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
@@ -146,6 +148,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Front-end
 ##### Inglés
+* [EN] Artículo - [Micro-Frontends: What, why, and how](https://www.linkedin.com/pulse/micro-frontends-what-why-how-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
 * [EN] Artículo - [Microfrontends: Which Framework to Use?](https://levelup.gitconnected.com/microfrontends-which-framework-to-use-457d5bed173e)
 * [EN] Herramienta - [Improve your HTML and CSS skills by practicing on real design templates](https://www.codewell.cc/)
 * [EN] Herramienta - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
@@ -198,9 +201,9 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Text in. Audio out](https://www.audyo.ai/)
 * [EN] Herramienta - [Generate images](https://magicstudio.com/)
 
-
 ### Javascript
 ##### Inglés
+* [EN] Artículo - [What is an IIFE in JavaScript?](https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174)
 * [EN] Artículo - [Understanding JavaScript Prototypes](https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866)
 * [EN] Artículo - [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 * [EN] Artículo - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
@@ -269,6 +272,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Story Explorer Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=joshbolduc.story-explorer)
 * [EN] Vídeo - [React typing animation with hooks](https://www.youtube.com/watch?v=9LHr3ER0qtY&ab_channel=Olli)
 ##### Español
+* [ES] Artículo - [¡Creando un app que usa Drag and Drop con React sin librerías 👆!](https://dev.to/franklin030601/creando-un-app-que-usa-drag-and-drop-con-react-sin-librerias--gm3)
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
@@ -284,6 +288,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Testing
 ##### Inglés
+* [EN] Artículo - [Mocking functions and modules with Jest](https://pawelgrzybek.com/mocking-functions-and-modules-with-jest/)
 * [EN] Artículo - [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
 * [EN] Artículo - [Jest / Enzyme - How to test at different viewports?](https://stackoverflow.com/questions/46221210/jest-enzyme-how-to-test-at-different-viewports)
 * [EN] Artículo - [Migrate from Jasmine to Jest and Testing Library in Angular](https://dev.to/this-is-angular/migrate-from-jasmine-to-jest-and-testing-in-angular-286i)
@@ -495,6 +500,7 @@ Mujeres que inspiran y a las que admiro
 * [ES] Artículo - [Crear métricas en Google Analytics 4](https://dev.to/miasalazar/crear-metricas-en-google-analytics-4-5938)
 * [ES] Herramienta - [Elementary OS, el Linux parecido a macOS muy seguro y rápido](https://www.softzone.es/linux/distros/elementary-os-linux/)
 * [ES] Herramienta - [Step4ward mentoras](https://step4ward.notion.site/)
+* [ES] Herramienta - [10 generadores de Lorem ipsum para divertirse](https://www.domestika.org/es/blog/1116-10-generadores-de-lorem-ipsum-para-divertirse)
 * [ES] Vídeo - [Teresa Lobo - Testeando la caja de Schrödinger: QA para sistemas de ML](https://www.youtube.com/watch?v=olFuhHyz854&ab_channel=CommitConf)
 * [ES] Vídeo - [¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React](https://www.youtube.com/watch?v=z0M6mEACXzw&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
 * [ES] Vídeo - [Aprender a aprender mejor](https://www.youtube.com/watch?v=SGdvLQ0QDWo&t=2353s&ab_channel=Autentia)
@@ -508,5 +514,6 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Fighting: el síndrome del impostor, por Laura Lacarra.](https://www.youtube.com/watch?v=cHDjL88So5I&t=2s&ab_channel=CommitConf)
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
+* [ES] Vídeo - [Tecnologías emergentes en los VFX para cine 🎥 ✨ - T3chFest 2024](https://www.youtube.com/watch?v=kpqJC-zn-qA)
 
-391 - Actualización 30/09/2024
+399 - Actualización 24/10/2024

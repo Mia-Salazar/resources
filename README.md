@@ -5,6 +5,10 @@ Todos los recursos son **gratuitos**.
 
 ### Accesibilidad
 ##### Inglés
+* [EN] Artículo - [When CSS Isn’t Enough: JavaScript Requirements For Accessible Components](https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/)
+* [EN] Artículo - [ARIA attributes: The forgotten ones of accessibility](https://dev.to/miasalazar/aria-attributes-the-forgotten-ones-of-accessibility-4e12)
+* [EN] Artículo - [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
+* [EN] Artículo - [Understanding screen reader interaction modes](https://tink.uk/understanding-screen-reader-interaction-modes/)
 * [EN] Artículo - [Are we live?](https://www.scottohara.me/blog/2022/02/05/are-we-live.html)
 * [EN] Artículo - [More Accessible Skeletons](https://adrianroselli.com/2020/11/more-accessible-skeletons.html)
 * [EN] Artículo - [ACCESSIBLE LINKS: When to Use aria-label](https://accessiblewebsiteservices.com/accessible-links-when-to-use-aria-labels/)
@@ -35,9 +39,8 @@ Todos los recursos son **gratuitos**.
 * [EN] Herramienta - [Screen reader](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
 * [EN] Herramienta - [Checklist](https://www.a11yproject.com/checklist/#identify-links-that-open-in-a-new-tab-or-window)
 ##### Español
-* [ES] Artículo - [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
+* [ES] Artículo - [Mi experiencia al refactorizar HTML para ser más accesible](https://martatorre.dev/experiencia-refactorizar-html-ser-mas-accesible/)
 * [ES] Artículo - [Ejemplo ARIA: Live Region](https://www.usableyaccesible.com/ejemplo_aria_live/ejemplo_liveregions.html)
-* [ES] Artículo - [ARIA attributes: The forgotten ones of accessibility](https://dev.to/miasalazar/aria-attributes-the-forgotten-ones-of-accessibility-4e12)
 * [ES] Artículo - [Ocultar y mostrar elementos a los lectores de pantalla](https://dev.to/miasalazar/ocultar-y-mostrar-elementos-a-los-lectores-de-pantalla-3jhi)
 * [ES] Artículo - [Accesibilidad web: Navegación por teclado](https://dev.to/miasalazar/accesibilidad-web-navegacion-por-teclado-42gh)
 * [ES] Artículo - [Proyectos adaptados a personas con discapacidad visual](https://dev.to/miasalazar/proyectos-adaptados-a-personas-con-discapacidad-visual-50f7)
@@ -69,7 +72,10 @@ Todos los recursos son **gratuitos**.
 
 ### CSS
 ##### Inglés
-* [EN] Artículo - [Don't use @font-face in styled-components](https://font-face-styled-components.netlify.app/)
+* [EN] Artículo - [What length CSS unit should you use?](https://whatunit.com/)
+* [EN] Artículo - [Don't use @font-face in styled-components](https://jser.dev/2023-10-09-styled-components/)
+* [EN] Artículo - [The Internals of Styled Components](https://font-face-styled-components.netlify.app/)
+* [EN] Artículo - [Introduction to variable fonts on the web](https://web.dev/articles/variable-fonts)
 * [EN] Artículo - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 * [EN] Artículo - [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 * [EN] Artículo - [CSS Language Speak: Container vs Wrapper?](https://stackoverflow.com/questions/4059163/css-language-speak-container-vs-wrapper)
@@ -100,6 +106,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [How to Hide Scrollbar and Visible Only Scrolling](https://medium.com/frontend-development-with-js/how-to-hide-scrollbar-and-visible-only-scrolling-79cc3472e503)
 * [EN] Herramienta - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 * [EN] Herramienta - [Learn the CSS Grid!](https://griddy.io/)
+* [EN] Herramienta - [CSS Speed dating](https://css-speed-dating.vercel.app/)
 * [EN] Herramienta - [Hover me animation](https://codepen.io/carmenansio/pen/ExqVamE)
 * [EN] Herramienta - [Librería de componentes con Tailwind](https://github.com/shadcn/ui)
 * [EN] Herramienta - [Evitar cambio de classnames](https://github.com/styled-components/jest-styled-components)
@@ -119,6 +126,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 * [ES] Artículo - [Zelda Transición con perspectiva](https://codepen.io/carmenansio/pen/eYbEOLM)
 * [ES] Vídeo - [SÓLO 3 LÍNEAS: CSS Grid responsive sin media queries](https://www.youtube.com/watch?v=El0OJ6h_2ZI&ab_channel=CodelyTV-Redescubrelaprogramaci%C3%B3n)
+* [ES] Vídeo - [¡Nuevo en CSS! Controla tu CSS con @scope](https://www.youtube.com/watch?v=6qFrbw9fuq0)
 
 ### Componentes
 ##### Inglés
@@ -218,8 +226,10 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Artículo - [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * [EN] Artículo - [How to use the Dev.to API in 2022](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * [EN] Artículo - [seal vs freeze vs preventExtenstions in JS](https://dev.to/shwetabh1/seal-vs-freeze-vs-preventextenstions-in-js-4mad)
+* [EN] Artículo - [Microtasks and (Macro)tasks in Event Loop](https://medium.com/@saravanaeswari22/microtasks-and-macro-tasks-in-event-loop-7b408b2949e0)
 * [EN] Artículo - [Everything You Need to Know About Cookies for Web Development](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)
 * [EN] Herramienta - [Getting Better at Regular Expressions with 3 Games](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
+* [EN] Herramienta - [Coding challenges spooky](https://www.halloween.dev/)
 * [EN] Libro - [Javascript best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 ##### Español
 * [ES] Artículo - [¿Qué diferencia async y defer en JavaScript?](https://cybmeta.com/diferencia-async-y-defer)
@@ -229,6 +239,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [ES] Artículo - [Propagación y captura](https://es.javascript.info/bubbling-and-capturing)
 * [ES] Artículo - [Programa en Javascript como una persona Pro](https://dev.to/miasalazar/programa-en-javascript-como-una-persona-pro-42c5)
 * [ES] Artículo - [CÓMO TRABAJAR CON FECHAS EN JAVASCRIPT](https://www.algoritmosalvaje.com/como-trabajar-fechas-javascript/)
+* [ES] Vídeo - [🤯 3 ejemplos de asincronía en JavaScript que te explotan la cabeza](https://www.youtube.com/watch?v=KUzTj-6LnzY)
 * [ES] Vídeo - [21. CLAUSURAS (Closures) EN JAVASCRIPT](https://www.youtube.com/watch?v=JXG_gQ0OF74&t=1s&ab_channel=LaCocinadelC%C3%B3digo)
 * [ES] Vídeo - [JSDayES 2018 - Pablo Magaz - "Escribiendo Service Workers con Workbox"](https://www.youtube.com/watch?v=GjXwJdYa3J4&ab_channel=JSDayES)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
@@ -246,6 +257,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Inglés
 * [EN] Artículo - [How to solve the "update was not wrapped in act()" warning in testing-library-react?](https://stackoverflow.com/questions/60115885/how-to-solve-the-update-was-not-wrapped-in-act-warning-in-testing-library-re)
 * [EN] Artículo - [Publish a React app with FTP](https://medium.com/@saidmysr20/publish-a-react-app-with-ftp-c08ed22e5fb)
+* [EN] Artículo - [React OneOf vs. OneOfType](https://jaketrent.com/post/react-oneof-vs-oneoftype/)
 * [EN] Artículo - [React Snapshot Testing: The Bad Parts](https://ntgard.medium.com/jest-snapshot-testing-the-bad-parts-c93aca187ba5)
 * [EN] Artículo - [Handling `undefined` in React Query and Typescript](https://www.neldeles.com/blog/posts/handling-undefined-in-react-query)
 * [EN] Artículo - [Aprende Cómo Aplicar los Principios SOLID en React JS](https://developero.io/blog/react-solid-example)
@@ -363,6 +375,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Free AI - Text prompt to SVG](https://svg.io/?utm_content=buffer75f00&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [EN] Herramienta - [Golden Ratio Typography (GRT) Calculator](https://grtcalculator.com/)
 * [EN] Herramienta - [Departure mono library](https://departuremono.com/)
+* [EN] Herramienta - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks?tab=readme-ov-file)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
 * [ES] Presentación - [¿Qué hay de nuevo en la Web UI?](https://slides.com/carmenansio/que-hay-de-nuevo)
@@ -450,13 +463,14 @@ Mujeres que inspiran y a las que admiro
 
 ### Útil
 ##### Inglés
-* [ES] Artículo - [GIT vs SVN – ¿Cuáles son las principales diferencias?](https://labitstudio.com/diferencias-sistemas-control-de-versiones/)
-* [ES] Artículo - [WTF is SRE? The job nobody understands.](https://nevkontakte.com/2020/wtf-is-sre.html)
-* [ES] Artículo - [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
+* [EN] Artículo - [ESLint not working in VSCode? Help build a troubleshooting checklist!](https://dev.to/tillsanders/eslint-not-working-in-vscode-help-build-a-troubleshooting-checklist-fdc)
+* [EN] Artículo - [WTF is SRE? The job nobody understands.](https://nevkontakte.com/2020/wtf-is-sre.html)
+* [EN] Artículo - [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
 * [EN] Artículo - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [EN] Artículo - [Simulate slow 3G network speed with Chrome DevTools](https://dandkim.com/simulate-slow-networks/test%20slow%20network%20connections/)
 * [EN] Artículo - [Análisis de Core Web Vitals](https://www.flat101.es/blog/seo/core-web-vitals/)
 * [EN] Artículo - [How DNS works](https://howdns.works/ep1/)
+* [EN] Artículo - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [EN] Artículo - [How do we control web page caching, across all browsers?](https://stackoverflow.com/questions/49547/how-do-we-control-web-page-caching-across-all-browsers/)
 * [EN] Artículo - [How to do a GOOD technical onboarding](https://dev.to/miasalazar/how-to-do-a-good-technical-onboarding-5dm3)
 * [EN] Artículo - [CORS Enabled](https://www.w3.org/wiki/CORS_Enabled)
@@ -478,16 +492,15 @@ Mujeres que inspiran y a las que admiro
 * [EN] Herramienta - [300+ FREE APIs Every Developer Needs to Know](https://dev.to/falselight/300-free-apis-every-developer-needs-to-know-3j76)
 * [EN] Herramienta - [iterview warmup](https://npmtrends.com/)
 * [EN] Herramienta - [No web without women](https://nowebwithoutwomen.com/)
+* [EN] Herramienta - [Coding adventure](https://www.codedex.io/)
+* [EN] Herramienta - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 * [EN] Herramienta - [npm trends](https://grow.google/certificates/interview-warmup/)
 * [EN] Herramienta - [Open source browser tools for everyday use](https://omatsuri.app/)
 * [EN] Herramienta - [URL Throttler, endpoint simulator](https://chrome.google.com/webstore/detail/url-throttler/kpkeghonflnkockcnaegmphgdldfnden/related)
-* [ES] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
-* [ES] Vídeo - [Por qué es importante saber comunicar bien, por Raquel Lainde en Tech SHEssions 2020](https://www.youtube.com/watch?v=r9dZsNuTcQ8)
-* [ES] Vídeo - [Tips & Trics: Cómo hacer que tu CV enamore](https://www.youtube.com/watch?v=KMh9sDmVCno)
-* [ES] Vídeo - [¿Para qué sirve la física? - T3chFest 2024](https://www.youtube.com/watch?v=f4nx8h5BTDA)
-* [ES] Vídeo - [Mánu Fosela: Liderar no es coser y cantar.](https://www.youtube.com/watch?v=WNlaWIQseUo)
+* [EN] Vídeo - [How To Manage Translations For Your Application | Crowdin & GitHub Tutorial](https://www.youtube.com/watch?v=8baL6VWnnZg&t=546s&ab_channel=RedhwanNacef)
 
 ##### Español
+* [ES] Artículo - [GIT vs SVN – ¿Cuáles son las principales diferencias?](https://labitstudio.com/diferencias-sistemas-control-de-versiones/)
 * [ES] Artículo - [La primera mujer del videojuego español](https://medium.com/free-play/la-primera-mujer-del-videojuego-espa%C3%B1ol-e2a970ed0dc8)
 * [ES] Artículo - [3.1. La arquitectura de un browser](https://miso-4208-labs.gitlab.io/book/chapter3/31-la-arquitectura-de-un-browser.html)
 * [ES] Artículo - [Querido/a Junior: el sector tech post-pandemia](https://www.codemotion.com/magazine/es/carreras-tech/querido-a-junior-el-sector-tech-post-pandemia/)
@@ -515,5 +528,10 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Internet ha muerto: ¿realidad o ficción digital? - T3chFest 2024](https://www.youtube.com/watch?v=N4c_r8l0rkU&t=1s&ab_channel=T3chFest)
 * [ES] Vídeo - [¿Cómo se programa el tiempo? La increíble historia del calendario y el software - T3chFest 2024](https://www.youtube.com/watch?v=cQRsqD0qU1Q&ab_channel=T3chFest)
 * [ES] Vídeo - [Tecnologías emergentes en los VFX para cine 🎥 ✨ - T3chFest 2024](https://www.youtube.com/watch?v=kpqJC-zn-qA)
+* [ES] Vídeo - [Por qué es importante saber comunicar bien, por Raquel Lainde en Tech SHEssions 2020](https://www.youtube.com/watch?v=r9dZsNuTcQ8)
+* [ES] Vídeo - [Tips & Trics: Cómo hacer que tu CV enamore](https://www.youtube.com/watch?v=KMh9sDmVCno)
+* [ES] Vídeo - [¿Para qué sirve la física? - T3chFest 2024](https://www.youtube.com/watch?v=f4nx8h5BTDA)
+* [ES] Vídeo - [Mánu Fosela: Liderar no es coser y cantar.](https://www.youtube.com/watch?v=WNlaWIQseUo)
+* [ES] Vídeo - [Ay, cómo hemos cambiado. Un paseo de 20 años por el diseño de internet - T3chFest 2024](https://www.youtube.com/watch?v=YRWsEJJSSgg)
 
-399 - Actualización 24/10/2024
+417 - Actualización 09/12/2024

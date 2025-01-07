@@ -72,6 +72,7 @@ Todos los recursos son **gratuitos**.
 
 ### CSS
 ##### Inglés
+* [EN] Artículo - [How styled-components works: A deep dive under the hood](https://medium.com/styled-components/how-styled-components-works-618a69970421)
 * [EN] Artículo - [What length CSS unit should you use?](https://whatunit.com/)
 * [EN] Artículo - [Don't use @font-face in styled-components](https://jser.dev/2023-10-09-styled-components/)
 * [EN] Artículo - [The Internals of Styled Components](https://font-face-styled-components.netlify.app/)
@@ -185,6 +186,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### HTML
 ##### Inglés
+* [EN] Artículo - [Can I put a span and an input inside a label?](https://stackoverflow.com/questions/31696060/can-i-put-a-span-and-an-input-inside-a-label)
 * [EN] Artículo - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 * [EN] Artículo - [Void elements](https://developer.mozilla.org/en-US/docs/Glossary/Void_element)
 * [EN] Artículo - [How to disable Google translate from HTML in Chrome](https://stackoverflow.com/questions/12238396/how-to-disable-google-translate-from-html-in-chrome)
@@ -200,6 +202,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Español
 * [ES] Artículo - [¿Cuáles son las diferencias entre los atributos disabled y readonly de los campos de texto de los formularies?](https://uniwebsidad.com/foro/pregunta/231/cuales-son-las-diferencias-entre-los-atributos-disabled-y-readonly-de-los-campos-de-texto-de-los-formularios/)
 * [ES] Artículo - [Etiquetas de HTML Semántico?](https://marcomadera.com/blog/html-semantico)
+* [ES] Artículo - [DOM (modelo de objetos de documento) HTML](https://www.geeksforgeeks.org/dom-document-object-model/o)
 
 ### IA
 ##### Inglés
@@ -286,6 +289,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 ##### Español
 * [ES] Artículo - [¡Creando un app que usa Drag and Drop con React sin librerías 👆!](https://dev.to/franklin030601/creando-un-app-que-usa-drag-and-drop-con-react-sin-librerias--gm3)
 * [ES] Artículo - [¿Y eso del Virtual DOM de React qué es?](https://latteandcode.medium.com/y-eso-del-virtual-dom-de-react-qu%C3%A9-es-3feed6366925)
+* [ES] Artículo - [Quizás no necesites un Efecto](https://es.react.dev/learn/you-might-not-need-an-effect)
 * [ES] Artículo - [React Testing Library, ¿cómo testear componentes con y sin hooks?](https://www.paradigmadigital.com/dev/react-testing-library-como-testear-hooks/)
 * [ES] Artículo - [Lifting - Datos de Hijos a Padres](https://john-florez.gitbook.io/reactjs-book/lifting-datos-de-hijos-a-padres)
 * [ES] Artículo - [Formularios dinámicos con Formik y React JS.](https://dev.to/franklin030601/formularios-dinamicos-con-formik-y-react-js-4hne)
@@ -300,6 +304,7 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 
 ### Testing
 ##### Inglés
+* [EN] Artículo - [Testing JavaScript with Jest](https://flaviocopes.com/jest/)
 * [EN] Artículo - [Mocking functions and modules with Jest](https://pawelgrzybek.com/mocking-functions-and-modules-with-jest/)
 * [EN] Artículo - [Mockist vs Classical testing strategy](https://romainbrunie.medium.com/mockist-v-classical-testing-strategy-d967f1bc263c)
 * [EN] Artículo - [Jest / Enzyme - How to test at different viewports?](https://stackoverflow.com/questions/46221210/jest-enzyme-how-to-test-at-different-viewports)
@@ -376,6 +381,8 @@ PUBLISHED: October 28, 2022](https://joshcollinsworth.com/blog/never-use-px-for-
 * [EN] Herramienta - [Golden Ratio Typography (GRT) Calculator](https://grtcalculator.com/)
 * [EN] Herramienta - [Departure mono library](https://departuremono.com/)
 * [EN] Herramienta - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks?tab=readme-ov-file)
+* [EN] Herramienta - [Design principles](https://principles.design/)
+* [EN] Herramienta - [Color & typography tools for web developers & digital designers](https://www.colorsandfonts.com/)
 ##### Español
 * [ES] Artículo - [Cómo hacer el handoff UX al equipo de desarrollo](https://www.uifrommars.com/como-hacer-handoff-diseno/)
 * [ES] Presentación - [¿Qué hay de nuevo en la Web UI?](https://slides.com/carmenansio/que-hay-de-nuevo)
@@ -534,4 +541,4 @@ Mujeres que inspiran y a las que admiro
 * [ES] Vídeo - [Mánu Fosela: Liderar no es coser y cantar.](https://www.youtube.com/watch?v=WNlaWIQseUo)
 * [ES] Vídeo - [Ay, cómo hemos cambiado. Un paseo de 20 años por el diseño de internet - T3chFest 2024](https://www.youtube.com/watch?v=YRWsEJJSSgg)
 
-417 - Actualización 09/12/2024
+424 - Actualización 07/01/2025
